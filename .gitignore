@@ -1,1 +1,2 @@
-data_collection/config.py
+data_collection/test_collection/config.py
+data_collection/final_collection/config.py
