@@ -1,0 +1,1692 @@
+,genre_list
+['Shooter'],2226
+['Sport'],2185
+['Adventure'],1901
+['Indie'],1673
+"['Adventure', 'Indie']",1457
+['Role-playing (RPG)'],1292
+['Platform'],1088
+['Puzzle'],1078
+['Simulator'],1038
+['Racing'],1020
+"['Role-playing (RPG)', 'Adventure']",918
+['Strategy'],833
+['Fighting'],791
+"['Role-playing (RPG)', 'Adventure', 'Indie']",651
+"['Shooter', 'Arcade']",623
+"['Platform', 'Adventure']",610
+"['Strategy', 'Indie']",530
+"['Simulator', 'Strategy']",508
+['Arcade'],492
+"['Simulator', 'Sport']",455
+"['Simulator', 'Indie']",414
+"['Puzzle', 'Adventure']",402
+"['Shooter', 'Adventure']",381
+"['Simulator', 'Strategy', 'Indie']",328
+['Music'],328
+"['Real Time Strategy (RTS)', 'Strategy']",327
+"['Racing', 'Sport']",279
+"['Role-playing (RPG)', 'Indie']",277
+"['Shooter', 'Indie']",270
+"['Point-and-click', 'Adventure']",262
+"['Platform', 'Adventure', 'Indie']",254
+"['Puzzle', 'Adventure', 'Indie']",252
+"['Simulator', 'Adventure', 'Indie']",251
+"['Puzzle', 'Strategy']",230
+"['Fighting', 'Sport']",213
+"['Puzzle', 'Indie']",200
+"[""Hack and slash/Beat 'em up""]",199
+"['Role-playing (RPG)', 'Strategy']",193
+"['Shooter', 'Simulator']",188
+"['Simulator', 'Adventure']",187
+"['Point-and-click', 'Puzzle', 'Adventure']",184
+"['Shooter', 'Platform']",179
+"['Racing', 'Simulator', 'Sport']",179
+"['Platform', 'Puzzle', 'Adventure', 'Indie']",178
+"[""Hack and slash/Beat 'em up"", 'Adventure']",178
+"['Platform', 'Puzzle']",175
+"['Role-playing (RPG)', 'Strategy', 'Adventure', 'Indie']",173
+"['Adventure', 'Visual Novel']",164
+"['Strategy', 'Turn-based strategy (TBS)']",162
+"['Racing', 'Simulator']",160
+"['Real Time Strategy (RTS)', 'Simulator', 'Strategy']",158
+"['Racing', 'Arcade']",147
+"['Shooter', 'Indie', 'Arcade']",145
+"['Strategy', 'Adventure', 'Indie']",135
+"['Platform', 'Arcade']",135
+"['Platform', 'Indie']",129
+"['Role-playing (RPG)', 'Strategy', 'Indie']",129
+"['Fighting', 'Arcade']",125
+"['Fighting', ""Hack and slash/Beat 'em up""]",125
+"['Sport', 'Indie']",124
+"['Platform', 'Puzzle', 'Adventure']",122
+"['Puzzle', 'Arcade']",121
+"['Shooter', 'Platform', 'Adventure']",119
+"['Role-playing (RPG)', 'Strategy', 'Adventure']",112
+"['Point-and-click', 'Puzzle', 'Adventure', 'Indie']",108
+"['Shooter', 'Role-playing (RPG)']",108
+"['Racing', 'Indie']",107
+"['Shooter', 'Adventure', 'Indie']",107
+"['Strategy', 'Adventure']",105
+"['Indie', 'Arcade']",104
+"['Point-and-click', 'Adventure', 'Indie']",104
+"['Role-playing (RPG)', 'Simulator', 'Adventure', 'Indie']",93
+"['Real Time Strategy (RTS)', 'Strategy', 'Indie']",92
+"['Adventure', 'Indie', 'Visual Novel']",90
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Adventure', 'Indie']",89
+"['Shooter', 'Racing']",87
+"['Simulator', 'Strategy', 'Adventure', 'Indie']",86
+"['Puzzle', 'Strategy', 'Indie']",83
+"['Simulator', 'Sport', 'Indie']",83
+"['Platform', 'Puzzle', 'Indie']",82
+"['Role-playing (RPG)', ""Hack and slash/Beat 'em up""]",79
+"['Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Adventure']",79
+"['Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)']",76
+"['Sport', 'Arcade']",75
+"['Fighting', 'Adventure']",74
+"['Shooter', 'Tactical']",73
+['Pinball'],73
+"['Simulator', 'Sport', 'Strategy']",72
+"['Sport', 'Quiz/Trivia']",72
+['Quiz/Trivia'],72
+"['Role-playing (RPG)', 'Simulator']",69
+"['Shooter', 'Strategy']",68
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Adventure']",67
+"['Shooter', 'Role-playing (RPG)', 'Adventure']",65
+"['Role-playing (RPG)', 'Simulator', 'Adventure']",64
+"['Puzzle', 'Quiz/Trivia']",61
+"['Adventure', 'Arcade']",60
+"['Platform', 'Adventure', 'Arcade']",59
+"['Simulator', 'Strategy', 'Adventure']",57
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Indie']",57
+"['Platform', 'Role-playing (RPG)', 'Adventure', 'Indie']",57
+"['Shooter', 'Platform', 'Arcade']",55
+['Turn-based strategy (TBS)'],53
+"['Shooter', 'Adventure', 'Arcade']",53
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Strategy']",52
+"['Role-playing (RPG)', 'Turn-based strategy (TBS)', 'Adventure']",51
+"['Platform', 'Role-playing (RPG)', 'Adventure']",49
+"['Music', 'Simulator']",48
+"['Platform', ""Hack and slash/Beat 'em up""]",47
+"['Role-playing (RPG)', 'Simulator', 'Strategy']",46
+"['Sport', 'Strategy']",45
+"['Strategy', 'Turn-based strategy (TBS)', 'Indie']",44
+"['Role-playing (RPG)', 'Turn-based strategy (TBS)']",43
+"['Strategy', 'Tactical']",43
+"['Role-playing (RPG)', 'Simulator', 'Indie']",43
+"['Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical']",42
+"['Simulator', 'Strategy', 'Turn-based strategy (TBS)']",42
+"['Shooter', 'Role-playing (RPG)', 'Indie']",41
+"['Role-playing (RPG)', 'Strategy', 'Tactical']",40
+"['Racing', 'Adventure']",40
+"['Puzzle', 'Strategy', 'Adventure']",40
+"['Shooter', 'Puzzle']",39
+"['Real Time Strategy (RTS)', 'Simulator', 'Strategy', 'Indie']",39
+['Card & Board Game'],38
+['Real Time Strategy (RTS)'],38
+"['Puzzle', 'Simulator']",38
+"['Platform', 'Adventure', 'Indie', 'Arcade']",37
+"['Racing', 'Simulator', 'Indie']",37
+"['Racing', 'Simulator', 'Sport', 'Indie']",37
+"['Shooter', 'Sport']",37
+"['Simulator', 'Sport', 'Strategy', 'Indie']",37
+"['Strategy', 'Turn-based strategy (TBS)', 'Tactical']",36
+['Visual Novel'],35
+"['Shooter', 'Platform', 'Indie']",35
+"['Fighting', 'Role-playing (RPG)', 'Adventure']",35
+"['Platform', ""Hack and slash/Beat 'em up"", 'Adventure']",35
+"['Puzzle', 'Role-playing (RPG)', 'Adventure']",34
+"['Puzzle', 'Strategy', 'Arcade']",34
+"['Fighting', ""Hack and slash/Beat 'em up"", 'Adventure']",34
+"['Shooter', 'Strategy', 'Indie']",33
+"['Puzzle', 'Role-playing (RPG)', 'Adventure', 'Indie']",33
+"['Platform', 'Indie', 'Arcade']",33
+"['Platform', 'Puzzle', 'Strategy']",33
+"['Puzzle', 'Strategy', 'Adventure', 'Indie']",33
+"['Puzzle', 'Simulator', 'Adventure', 'Indie']",32
+"['Simulator', 'Adventure', 'Indie', 'Visual Novel']",31
+"['Simulator', 'Arcade']",31
+"['Shooter', 'Role-playing (RPG)', 'Adventure', 'Indie']",31
+"['Fighting', 'Indie']",31
+"['Puzzle', 'Simulator', 'Strategy', 'Indie']",30
+"['Puzzle', 'Simulator', 'Indie']",30
+"['Racing', 'Sport', 'Indie']",30
+"['Strategy', 'Quiz/Trivia']",30
+"['Shooter', ""Hack and slash/Beat 'em up""]",30
+"[""Hack and slash/Beat 'em up"", 'Arcade']",30
+"['Sport', 'Adventure']",30
+"['Shooter', 'Simulator', 'Strategy', 'Tactical']",30
+"['Strategy', 'Card & Board Game']",29
+"['Role-playing (RPG)', 'Sport']",29
+"['Shooter', 'Simulator', 'Sport']",28
+"['Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', 'Adventure', 'Indie']",28
+"['Shooter', 'Puzzle', 'Adventure']",28
+"['Shooter', 'Tactical', 'Adventure']",28
+"['Racing', 'Sport', 'Arcade']",28
+"['Shooter', 'Platform', 'Adventure', 'Indie']",27
+"['Fighting', 'Platform']",27
+"['Shooter', 'Simulator', 'Indie']",27
+"['Shooter', 'Adventure', 'Indie', 'Arcade']",27
+"['Fighting', 'Shooter']",26
+"['Simulator', 'Adventure', 'Visual Novel']",26
+"['Fighting', 'Role-playing (RPG)']",26
+"['Strategy', 'Arcade']",26
+"['Strategy', 'Turn-based strategy (TBS)', 'Card & Board Game']",26
+"['Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",26
+"['Shooter', 'Racing', 'Adventure']",26
+"['Platform', 'Role-playing (RPG)']",25
+"['Shooter', 'Simulator', 'Arcade']",25
+"['Fighting', 'Platform', ""Hack and slash/Beat 'em up""]",25
+"['Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', 'Adventure']",25
+"['Puzzle', 'Indie', 'Arcade']",25
+"['Shooter', 'Simulator', 'Strategy']",24
+"['Platform', 'Puzzle', 'Adventure', 'Indie', 'Arcade']",24
+"['Fighting', ""Hack and slash/Beat 'em up"", 'Arcade']",23
+"['Real Time Strategy (RTS)', 'Strategy', 'Tactical']",23
+"['Role-playing (RPG)', 'Tactical']",23
+"['Shooter', 'Real Time Strategy (RTS)', 'Strategy']",22
+"['Racing', 'Adventure', 'Indie']",22
+"['Music', 'Indie']",22
+"['Music', 'Arcade']",22
+"['Shooter', 'Simulator', 'Adventure', 'Indie']",22
+"['Platform', 'Puzzle', 'Strategy', 'Adventure', 'Indie']",22
+"[""Hack and slash/Beat 'em up"", 'Indie']",21
+"['Shooter', 'Racing', 'Arcade']",21
+['Point-and-click'],21
+"['Shooter', 'Strategy', 'Tactical']",20
+"['Shooter', 'Simulator', 'Tactical']",20
+"['Puzzle', 'Role-playing (RPG)']",20
+"['Platform', 'Strategy']",20
+"['Puzzle', 'Card & Board Game']",19
+"['Shooter', 'Simulator', 'Adventure']",19
+"['Platform', 'Racing']",19
+"['Simulator', 'Strategy', 'Tactical']",19
+"['Platform', 'Puzzle', 'Arcade']",19
+"['Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', 'Indie']",18
+"['Pinball', 'Arcade']",18
+"['Sport', 'Indie', 'Arcade']",18
+"['Role-playing (RPG)', 'Adventure', 'Indie', 'Visual Novel']",18
+"['Puzzle', 'Racing']",18
+"['Real Time Strategy (RTS)', 'Simulator', 'Strategy', 'Tactical']",18
+"['Shooter', ""Hack and slash/Beat 'em up"", 'Adventure']",17
+"['Platform', 'Puzzle', 'Strategy', 'Indie']",17
+"['Real Time Strategy (RTS)', 'Simulator', 'Strategy', 'Adventure']",17
+"['Sport', 'Quiz/Trivia', 'Card & Board Game']",17
+"['Music', 'Adventure']",17
+"['Shooter', 'Strategy', 'Adventure']",17
+"['Platform', 'Puzzle', 'Strategy', 'Adventure']",16
+"['Shooter', 'Strategy', 'Adventure', 'Indie']",16
+"['Shooter', 'Role-playing (RPG)', 'Tactical']",16
+"['Fighting', 'Indie', 'Arcade']",16
+"['Shooter', 'Platform', 'Puzzle']",16
+"['Shooter', 'Platform', 'Adventure', 'Indie', 'Arcade']",16
+"['Role-playing (RPG)', 'Turn-based strategy (TBS)', 'Adventure', 'Indie']",16
+"['Simulator', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical']",15
+"['Sport', 'Strategy', 'Indie']",15
+"['Shooter', 'Platform', 'Adventure', 'Arcade']",15
+"['Racing', 'Simulator', 'Arcade']",15
+"['Sport', 'Pinball']",15
+"['Fighting', 'Strategy']",15
+"['Simulator', 'Sport', 'Arcade']",15
+"['Racing', 'Indie', 'Arcade']",15
+"['Fighting', ""Hack and slash/Beat 'em up"", 'Indie']",15
+"['Puzzle', 'Sport']",15
+"['Adventure', 'Indie', 'Arcade']",14
+"['Shooter', 'Platform', 'Indie', 'Arcade']",14
+"['Music', 'Indie', 'Arcade']",14
+"['Puzzle', 'Adventure', 'Visual Novel']",14
+"['Music', 'Sport']",14
+"['Puzzle', 'Strategy', 'Indie', 'Arcade']",14
+"['Racing', 'Simulator', 'Adventure', 'Indie']",14
+"['Platform', 'Racing', 'Adventure']",14
+"['Simulator', 'Indie', 'Arcade']",14
+"['Simulator', 'Strategy', 'Turn-based strategy (TBS)', 'Indie']",14
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Simulator', 'Strategy']",13
+"['Platform', 'Puzzle', 'Role-playing (RPG)', 'Adventure']",13
+"['Real Time Strategy (RTS)', 'Strategy', 'Adventure']",13
+"[""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",13
+"['Platform', 'Puzzle', 'Adventure', 'Arcade']",13
+"['Music', 'Puzzle']",13
+"['Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical', 'Adventure', 'Indie']",13
+"['Puzzle', 'Adventure', 'Arcade']",13
+"['Fighting', 'Simulator', 'Sport']",13
+"['Fighting', 'Racing']",13
+"['Platform', 'Role-playing (RPG)', 'Indie']",13
+"['Point-and-click', 'Puzzle']",13
+"['Strategy', ""Hack and slash/Beat 'em up""]",13
+"['Fighting', 'Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Adventure']",13
+"['Music', 'Adventure', 'Indie']",12
+"['Shooter', 'Strategy', 'Arcade']",12
+"['Role-playing (RPG)', 'Adventure', 'Visual Novel']",12
+"['Fighting', ""Hack and slash/Beat 'em up"", 'Indie', 'Arcade']",12
+"['Racing', 'Simulator', 'Sport', 'Adventure', 'Indie']",12
+"['Puzzle', 'Simulator', 'Strategy']",12
+"['Role-playing (RPG)', 'Strategy', 'Tactical', 'Indie']",12
+"['Shooter', 'Music']",12
+"['Platform', 'Sport']",12
+"['Real Time Strategy (RTS)', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical']",12
+"['Shooter', 'Simulator', 'Strategy', 'Indie']",12
+"['Puzzle', 'Pinball']",12
+"['Simulator', 'Sport', 'Adventure', 'Indie']",12
+"['Puzzle', 'Adventure', 'Indie', 'Arcade']",11
+"['Simulator', 'Visual Novel']",11
+"['Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical', 'Adventure']",11
+"['Puzzle', 'Strategy', 'Quiz/Trivia']",11
+"['Simulator', 'Pinball']",11
+"['Indie', 'Visual Novel']",11
+"['Turn-based strategy (TBS)', 'Card & Board Game']",11
+"['Role-playing (RPG)', 'Strategy', 'Tactical', 'Adventure']",11
+"['Sport', 'Card & Board Game']",11
+"['Puzzle', 'Simulator', 'Adventure']",11
+"['Point-and-click', 'Puzzle', 'Role-playing (RPG)', 'Adventure', 'Indie']",11
+['MOBA'],11
+"['Role-playing (RPG)', 'Sport', 'Adventure']",11
+"['Simulator', 'Card & Board Game']",10
+"['Puzzle', 'Turn-based strategy (TBS)']",10
+"['Platform', 'Racing', 'Arcade']",10
+"['Fighting', 'Shooter', 'Racing']",10
+"['Fighting', 'Role-playing (RPG)', 'Adventure', 'Indie']",10
+"['Fighting', 'Platform', 'Indie']",10
+"['Fighting', 'Sport', ""Hack and slash/Beat 'em up""]",10
+"['Role-playing (RPG)', 'Card & Board Game']",10
+"['Point-and-click', 'Puzzle', 'Role-playing (RPG)', 'Adventure']",10
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Strategy', 'Adventure']",10
+"['Quiz/Trivia', 'Adventure']",10
+"['Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Indie']",10
+"['Role-playing (RPG)', 'Simulator', 'Adventure', 'Indie', 'Visual Novel']",10
+"['Shooter', 'Platform', 'Puzzle', 'Adventure']",10
+['Tactical'],10
+"['Racing', 'Simulator', 'Sport', 'Arcade']",9
+"['Shooter', 'Puzzle', 'Arcade']",9
+"['Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical', 'Indie']",9
+"['Simulator', 'Pinball', 'Arcade']",9
+"['Sport', 'Turn-based strategy (TBS)']",9
+"['Platform', 'Puzzle', 'Role-playing (RPG)', 'Adventure', 'Indie']",9
+"['Role-playing (RPG)', 'Tactical', 'Adventure']",9
+"['Strategy', ""Hack and slash/Beat 'em up"", 'Adventure']",9
+"['Platform', 'Strategy', 'Adventure']",9
+"['Strategy', 'Quiz/Trivia', 'Indie']",9
+"['Platform', 'Puzzle', 'Indie', 'Arcade']",9
+"['Platform', 'Simulator', 'Adventure']",9
+"['Shooter', 'Role-playing (RPG)', 'Adventure', 'Indie', 'Arcade']",9
+"['Shooter', 'Racing', 'Simulator']",9
+"['Fighting', 'Adventure', 'Arcade']",9
+"['Strategy', 'Quiz/Trivia', 'Card & Board Game']",9
+"['Point-and-click', 'Role-playing (RPG)', 'Adventure', 'Indie']",9
+"['Role-playing (RPG)', 'Strategy', 'Indie', 'Card & Board Game']",9
+"['Quiz/Trivia', 'Indie']",9
+"['Puzzle', 'Strategy', 'Turn-based strategy (TBS)']",9
+"['Puzzle', 'Role-playing (RPG)', 'Indie']",9
+"['Role-playing (RPG)', 'Adventure', 'Indie', 'Arcade']",9
+"['Strategy', 'Indie', 'Arcade']",9
+"['Sport', 'Adventure', 'Indie']",9
+"['Shooter', 'Real Time Strategy (RTS)', 'Strategy', 'Indie']",9
+"['Fighting', 'Platform', ""Hack and slash/Beat 'em up"", 'Adventure']",8
+"['Racing', 'Simulator', 'Sport', 'Strategy']",8
+"['Real Time Strategy (RTS)', 'Strategy', 'Tactical', 'Indie']",8
+"['Racing', 'Sport', 'Adventure']",8
+"['Puzzle', 'Real Time Strategy (RTS)', 'Strategy']",8
+"['Point-and-click', 'Puzzle', 'Strategy', 'Adventure', 'Indie']",8
+"['Platform', 'Racing', 'Adventure', 'Indie']",8
+"['Music', 'Puzzle', 'Indie']",8
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)']",8
+"['Racing', 'Role-playing (RPG)']",8
+"['Shooter', 'Puzzle', 'Indie']",8
+"['Role-playing (RPG)', 'Quiz/Trivia']",8
+"['Role-playing (RPG)', 'Adventure', 'Arcade']",8
+"['Shooter', 'Role-playing (RPG)', 'Simulator', 'Adventure', 'Indie']",8
+"['Platform', 'Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Adventure']",8
+"['Shooter', ""Hack and slash/Beat 'em up"", 'Arcade']",8
+"['Platform', 'Role-playing (RPG)', 'Adventure', 'Indie', 'Arcade']",8
+"['Fighting', 'Simulator']",8
+"['Puzzle', 'Role-playing (RPG)', 'Strategy', 'Adventure']",8
+"['Strategy', 'Tactical', 'Adventure']",8
+"['Shooter', 'Simulator', 'Indie', 'Arcade']",7
+"['Fighting', ""Hack and slash/Beat 'em up"", 'Adventure', 'Arcade']",7
+"['Racing', 'Simulator', 'Sport', 'Indie', 'Arcade']",7
+"['Platform', 'Sport', 'Adventure']",7
+"['Racing', ""Hack and slash/Beat 'em up""]",7
+"['Puzzle', 'Adventure', 'Indie', 'Visual Novel']",7
+"['Puzzle', 'Simulator', 'Strategy', 'Adventure', 'Indie']",7
+"['Shooter', 'Real Time Strategy (RTS)', 'Simulator', 'Strategy']",7
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)', 'Adventure', 'Indie']",7
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Strategy', 'Indie']",7
+"['Fighting', 'Shooter', 'Racing', 'Adventure']",7
+"['Platform', 'Simulator']",7
+"['Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', 'Card & Board Game']",7
+"['Point-and-click', 'Adventure', 'Visual Novel']",7
+"['Fighting', 'Puzzle', 'Role-playing (RPG)', 'Strategy', 'Adventure']",7
+"['Platform', 'Puzzle', ""Hack and slash/Beat 'em up"", 'Adventure']",7
+"['Shooter', 'Role-playing (RPG)', 'Simulator']",7
+"[""Hack and slash/Beat 'em up"", 'Indie', 'Arcade']",7
+"['Strategy', 'Turn-based strategy (TBS)', 'Adventure']",7
+"['Puzzle', 'Strategy', 'Indie', 'Card & Board Game']",7
+"['Shooter', 'Simulator', 'Strategy', 'Adventure', 'Indie']",7
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical']",7
+"['Platform', ""Hack and slash/Beat 'em up"", 'Indie']",7
+"['Puzzle', 'Strategy', 'Tactical']",7
+"['Simulator', 'Indie', 'Visual Novel']",7
+"['Strategy', 'Turn-based strategy (TBS)', 'Tactical', 'Indie']",7
+"['Fighting', 'Sport', 'Arcade']",7
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Tactical']",7
+"['Shooter', 'Role-playing (RPG)', 'Indie', 'Arcade']",7
+"['Shooter', 'Music', 'Indie']",7
+"['Shooter', 'Role-playing (RPG)', 'Strategy', 'Adventure', 'Indie']",7
+"['Point-and-click', 'Strategy', 'Adventure']",7
+"['Racing', 'Real Time Strategy (RTS)', 'Simulator']",7
+"['Puzzle', 'Role-playing (RPG)', 'Simulator', 'Adventure', 'Indie']",7
+"['Strategy', 'Tactical', 'Arcade']",7
+"['Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', 'Adventure', 'Indie', 'Card & Board Game']",7
+"['Puzzle', 'Strategy', 'Adventure', 'Indie', 'Arcade']",6
+"['Music', 'Puzzle', 'Arcade']",6
+"['Simulator', 'Quiz/Trivia']",6
+"['Strategy', 'Turn-based strategy (TBS)', 'Indie', 'Card & Board Game']",6
+"[""Hack and slash/Beat 'em up"", 'Adventure', 'Arcade']",6
+"['Shooter', 'Strategy', 'Indie', 'Arcade']",6
+"['Role-playing (RPG)', 'Strategy', 'Adventure', 'Visual Novel']",6
+"['Strategy', 'Turn-based strategy (TBS)', 'Tactical', 'Adventure', 'Indie']",6
+"['Shooter', 'Tactical', 'Indie']",6
+"['Puzzle', 'Strategy', 'Adventure', 'Indie', 'Card & Board Game']",6
+"['Shooter', 'Pinball']",6
+"['Shooter', 'Pinball', 'Arcade']",6
+"['Simulator', 'Strategy', 'Card & Board Game']",6
+"['Racing', 'Simulator', 'Strategy']",6
+"['Shooter', 'Role-playing (RPG)', 'Simulator', 'Adventure']",6
+"['Fighting', 'Shooter', 'Indie']",6
+"['Puzzle', 'Simulator', 'Quiz/Trivia']",6
+"['Platform', 'Racing', 'Indie']",6
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)']",6
+"['Shooter', 'Puzzle', 'Strategy']",6
+"['Shooter', 'Puzzle', 'Adventure', 'Indie']",6
+"['Pinball', 'Indie']",6
+"['Role-playing (RPG)', 'Strategy', ""Hack and slash/Beat 'em up"", 'Adventure']",6
+"['Shooter', 'Platform', 'Puzzle', 'Adventure', 'Indie']",6
+"['Puzzle', 'Role-playing (RPG)', 'Strategy', 'Adventure', 'Indie']",6
+"['Music', 'Puzzle', 'Adventure', 'Indie']",6
+"['Fighting', 'Role-playing (RPG)', ""Hack and slash/Beat 'em up""]",6
+"['Puzzle', 'Role-playing (RPG)', 'Strategy', 'Indie']",6
+"['Platform', 'Simulator', 'Adventure', 'Indie']",6
+"['Fighting', 'Platform', 'Adventure']",6
+"['Quiz/Trivia', 'Card & Board Game']",6
+"['Fighting', 'Shooter', 'Arcade']",6
+"['Puzzle', ""Hack and slash/Beat 'em up"", 'Adventure']",6
+"['Racing', 'Strategy', 'Indie']",6
+"['Shooter', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Adventure', 'Indie']",6
+"['Shooter', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Adventure']",6
+"['Role-playing (RPG)', 'Arcade']",6
+"['Shooter', 'Simulator', 'Strategy', 'Arcade']",6
+"['Simulator', 'Turn-based strategy (TBS)']",6
+"['Platform', 'Role-playing (RPG)', 'Strategy', 'Adventure', 'Indie']",6
+"['Simulator', 'Strategy', 'Tactical', 'Adventure']",5
+"['Shooter', 'Puzzle', 'Indie', 'Arcade']",5
+"['Platform', 'Puzzle', 'Simulator', 'Adventure', 'Indie']",5
+"['Real Time Strategy (RTS)', 'Simulator', 'Strategy', 'Tactical', 'Indie']",5
+"['Turn-based strategy (TBS)', 'Indie']",5
+"['Platform', 'Racing', 'Indie', 'Arcade']",5
+"['Simulator', 'Turn-based strategy (TBS)', 'Card & Board Game']",5
+"['Shooter', 'Simulator', 'Sport', 'Adventure']",5
+"['Real Time Strategy (RTS)', 'Strategy', 'Turn-based strategy (TBS)']",5
+"['Simulator', 'Strategy', 'Arcade']",5
+"['Point-and-click', 'Simulator']",5
+"['Music', 'Platform', 'Adventure', 'Indie']",5
+"['Racing', 'Sport', 'Strategy']",5
+"['Shooter', 'Platform', 'Puzzle', 'Indie']",5
+"['Strategy', 'Turn-based strategy (TBS)', 'Quiz/Trivia', 'Card & Board Game']",5
+"['Fighting', 'Platform', 'Indie', 'Arcade']",5
+"['Shooter', 'Role-playing (RPG)', 'Sport', 'Adventure']",5
+"['Tactical', 'Arcade']",5
+"['Fighting', 'Music']",5
+"['Puzzle', 'Strategy', 'Quiz/Trivia', 'Card & Board Game']",5
+"['Pinball', 'Adventure']",5
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Tactical', 'Adventure']",5
+"['Puzzle', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Adventure', 'Indie']",5
+"['Real Time Strategy (RTS)', 'Simulator']",5
+"['Shooter', 'Role-playing (RPG)', 'Strategy', 'Adventure']",5
+"['Shooter', 'Platform', 'Role-playing (RPG)']",5
+"['Simulator', 'Strategy', 'Tactical', 'Indie']",5
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)']",5
+"['Racing', 'Simulator', 'Sport', 'Adventure']",5
+"['Fighting', 'Puzzle', 'Adventure']",5
+"['Strategy', 'Adventure', 'Arcade']",5
+"['Tactical', 'Adventure']",5
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Strategy', 'Tactical']",5
+"['Shooter', 'Sport', 'Adventure']",5
+"['Real Time Strategy (RTS)', 'Strategy', 'Adventure', 'Indie']",5
+"['Platform', 'Strategy', 'Adventure', 'Indie']",5
+"['Fighting', 'Adventure', 'Indie', 'Arcade']",5
+"['Racing', 'Simulator', 'Adventure']",5
+"['Platform', ""Hack and slash/Beat 'em up"", 'Arcade']",5
+"['Platform', 'Racing', 'Sport']",5
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)', 'Indie']",5
+"['Fighting', 'Adventure', 'Indie']",5
+"['Shooter', 'Platform', ""Hack and slash/Beat 'em up""]",5
+"['Shooter', 'Simulator', 'Adventure', 'Indie', 'Arcade']",5
+"['Role-playing (RPG)', 'Strategy', 'Card & Board Game']",5
+"['Shooter', 'Sport', 'Indie']",5
+"['Sport', ""Hack and slash/Beat 'em up""]",5
+"['Strategy', 'Tactical', 'Indie']",5
+"['Fighting', 'Sport', 'Indie', 'Arcade']",5
+"['Fighting', 'Turn-based strategy (TBS)']",5
+"['Puzzle', 'Sport', 'Strategy']",5
+"['Shooter', 'Racing', 'Sport']",5
+"['Simulator', 'Sport', 'Adventure']",5
+"['Platform', 'Racing', 'Sport', 'Indie']",5
+"['Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', 'Indie', 'Card & Board Game']",5
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Adventure']",5
+"['Platform', 'Puzzle', 'Racing', 'Indie']",5
+"['Fighting', 'Shooter', ""Hack and slash/Beat 'em up""]",5
+"['Platform', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",5
+"['Shooter', 'Platform', 'Racing']",5
+"['Puzzle', 'Racing', 'Adventure']",4
+"['Platform', 'Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",4
+"['Music', 'Role-playing (RPG)']",4
+"['Fighting', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie', 'Arcade']",4
+"['Fighting', 'Role-playing (RPG)', 'Strategy', 'Adventure']",4
+"['Strategy', 'Turn-based strategy (TBS)', 'Tactical', 'Card & Board Game']",4
+"['Real Time Strategy (RTS)', 'Strategy', 'Indie', 'Arcade']",4
+"['Shooter', 'Real Time Strategy (RTS)']",4
+"['Music', 'Platform', 'Puzzle', 'Adventure', 'Indie']",4
+"['Puzzle', 'Strategy', 'Quiz/Trivia', 'Indie']",4
+"['Shooter', 'Music', 'Indie', 'Arcade']",4
+"['Shooter', 'Strategy', 'Tactical', 'Indie']",4
+"['Shooter', 'Real Time Strategy (RTS)', 'Strategy', 'Tactical']",4
+"['Platform', 'Strategy', 'Indie']",4
+"['Turn-based strategy (TBS)', 'Adventure']",4
+"['Shooter', 'Strategy', 'Tactical', 'Adventure']",4
+"['Shooter', 'Platform', 'Puzzle', 'Arcade']",4
+"['Point-and-click', 'Role-playing (RPG)', 'Adventure']",4
+"['Simulator', 'Strategy', 'Indie', 'Card & Board Game']",4
+"['Shooter', 'Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Adventure']",4
+"['Platform', 'Strategy', 'Arcade']",4
+"['Puzzle', 'Strategy', 'Card & Board Game']",4
+"['Music', 'Platform', 'Indie', 'Arcade']",4
+"['Puzzle', 'Strategy', 'Adventure', 'Card & Board Game']",4
+"['Fighting', 'Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)']",4
+"['Fighting', 'Role-playing (RPG)', 'Indie']",4
+"['Puzzle', 'Indie', 'Card & Board Game']",4
+"['Simulator', 'Strategy', 'Quiz/Trivia', 'Card & Board Game']",4
+"['Shooter', 'Role-playing (RPG)', 'Strategy']",4
+"['Role-playing (RPG)', 'Turn-based strategy (TBS)', 'Tactical']",4
+"['Role-playing (RPG)', 'Sport', 'Strategy']",4
+"['Racing', 'Role-playing (RPG)', 'Simulator']",4
+"['Point-and-click', 'Puzzle', 'Indie']",4
+"['Puzzle', 'Role-playing (RPG)', 'Turn-based strategy (TBS)']",4
+"['Puzzle', 'Turn-based strategy (TBS)', 'Card & Board Game']",4
+"['Fighting', 'Shooter', 'Simulator']",4
+"['Shooter', 'Strategy', 'Turn-based strategy (TBS)']",4
+"['Shooter', 'Racing', 'Indie', 'Arcade']",4
+"['Racing', 'Sport', 'Indie', 'Arcade']",4
+"['Shooter', 'Racing', 'Adventure', 'Indie', 'Arcade']",4
+"['Role-playing (RPG)', 'Turn-based strategy (TBS)', 'Tactical', 'Adventure']",4
+"['Puzzle', 'Tactical']",4
+"['Platform', 'Puzzle', 'Racing']",4
+"['Fighting', 'Puzzle']",4
+"['Music', 'Platform']",4
+"['Point-and-click', 'Puzzle', 'Simulator', 'Adventure', 'Indie']",4
+"['Point-and-click', 'Simulator', 'Strategy', 'Adventure', 'Indie']",4
+"['Simulator', 'Strategy', 'Quiz/Trivia']",4
+"['Point-and-click', 'Puzzle', 'Adventure', 'Visual Novel']",4
+"['Fighting', 'Shooter', 'Platform']",4
+"['Real Time Strategy (RTS)', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical']",4
+"['Shooter', 'Racing', 'Indie']",4
+"['Music', 'Platform', 'Indie']",4
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Adventure', 'Indie']",4
+"['Shooter', 'Role-playing (RPG)', 'Sport']",4
+"['Fighting', 'Shooter', 'Strategy']",4
+"['Racing', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Adventure', 'Indie']",4
+"['Role-playing (RPG)', 'Tactical', 'Adventure', 'Indie']",4
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Strategy', 'Adventure', 'Indie']",4
+"['Puzzle', 'Simulator', 'Strategy', 'Indie', 'Arcade']",4
+"['Shooter', 'Strategy', 'Adventure', 'Arcade']",4
+"['Fighting', 'Shooter', 'Adventure']",4
+"['Music', 'Puzzle', 'Strategy']",4
+"['Platform', 'Simulator', 'Strategy']",4
+"['Point-and-click', 'Shooter', 'Adventure']",4
+"['Music', 'Adventure', 'Indie', 'Arcade']",4
+"['Shooter', 'Role-playing (RPG)', ""Hack and slash/Beat 'em up""]",4
+"['Sport', 'Strategy', 'Quiz/Trivia']",4
+"['Puzzle', 'Role-playing (RPG)', 'Strategy']",4
+"['Music', 'Role-playing (RPG)', 'Indie']",4
+"['Strategy', 'Indie', 'Card & Board Game']",4
+"['Simulator', 'Strategy', 'Turn-based strategy (TBS)', 'Adventure']",4
+"['Puzzle', 'Simulator', 'Sport']",4
+"['Simulator', 'Turn-based strategy (TBS)', 'Indie']",3
+"['Fighting', 'Shooter', ""Hack and slash/Beat 'em up"", 'Indie']",3
+"['Role-playing (RPG)', 'Sport', 'Adventure', 'Indie']",3
+"['Shooter', 'Platform', 'Strategy', 'Indie']",3
+"['Fighting', 'Role-playing (RPG)', 'Strategy', 'Adventure', 'Indie']",3
+"['Music', 'Visual Novel']",3
+"['Platform', 'Racing', 'Sport', 'Indie', 'Arcade']",3
+"['Turn-based strategy (TBS)', 'Tactical']",3
+"['Puzzle', 'Racing', 'Sport']",3
+"['Role-playing (RPG)', 'Sport', 'Strategy', 'Indie']",3
+"['Simulator', 'Adventure', 'Indie', 'Arcade']",3
+"['Racing', 'Simulator', 'Indie', 'Arcade']",3
+"['Fighting', 'Platform', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",3
+"['Racing', 'Strategy']",3
+"['Fighting', 'Strategy', 'Adventure']",3
+"['Fighting', 'Simulator', 'Strategy', 'Indie']",3
+"['Simulator', 'Sport', 'Indie', 'Arcade']",3
+"['Shooter', ""Hack and slash/Beat 'em up"", 'Indie']",3
+"['Simulator', 'Sport', 'Turn-based strategy (TBS)']",3
+"['Platform', 'Role-playing (RPG)', 'Adventure', 'Arcade']",3
+"['Sport', 'Strategy', 'Adventure', 'Indie']",3
+"['Sport', 'Strategy', 'Turn-based strategy (TBS)']",3
+"['Puzzle', 'Real Time Strategy (RTS)', 'Simulator', 'Strategy', 'Indie']",3
+"['Role-playing (RPG)', 'Pinball']",3
+"['Simulator', 'Sport', 'Strategy', 'Adventure', 'Indie']",3
+"['Simulator', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical', 'Indie']",3
+"['Puzzle', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Indie']",3
+"['Fighting', 'Simulator', 'Adventure']",3
+"['Platform', 'Sport', 'Indie']",3
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Adventure', 'Indie', 'Visual Novel']",3
+"['Role-playing (RPG)', 'Strategy', 'Tactical', 'Adventure', 'Indie']",3
+"['Platform', 'Strategy', 'Indie', 'Arcade']",3
+"['Role-playing (RPG)', 'Simulator', 'Indie', 'Visual Novel']",3
+"['Simulator', 'Adventure', 'Arcade']",3
+"['Puzzle', 'Sport', 'Adventure']",3
+"['Adventure', 'Card & Board Game']",3
+"['Role-playing (RPG)', 'Simulator', ""Hack and slash/Beat 'em up"", 'Adventure']",3
+"['Puzzle', 'Role-playing (RPG)', 'Adventure', 'Indie', 'Arcade']",3
+"['Fighting', 'Sport', 'Indie']",3
+"['Fighting', 'Shooter', ""Hack and slash/Beat 'em up"", 'Adventure']",3
+"['Shooter', 'Role-playing (RPG)', 'Simulator', 'Indie']",3
+"['Shooter', 'Platform', 'Strategy']",3
+"['Music', 'Simulator', 'Indie']",3
+"['Role-playing (RPG)', 'Strategy', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",3
+"['Role-playing (RPG)', 'Turn-based strategy (TBS)', 'Indie']",3
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Strategy', 'Tactical', 'Adventure', 'Indie']",3
+"['Real Time Strategy (RTS)', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)']",3
+"['Shooter', 'Turn-based strategy (TBS)']",3
+"['Point-and-click', 'Role-playing (RPG)']",3
+"['Point-and-click', 'Puzzle', 'Strategy', 'Adventure']",3
+"['Tactical', 'Indie']",3
+"['Music', 'Puzzle', 'Simulator']",3
+"['Fighting', 'Platform', 'Arcade']",3
+"['Platform', 'Puzzle', 'Role-playing (RPG)']",3
+"['Strategy', ""Hack and slash/Beat 'em up"", 'Indie']",3
+"['Puzzle', 'Quiz/Trivia', 'Card & Board Game']",3
+"['Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie', 'Arcade']",3
+"['Puzzle', 'Strategy', 'Pinball']",3
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Tactical', 'Adventure', 'Visual Novel']",3
+"['Puzzle', 'Strategy', 'Turn-based strategy (TBS)', 'Indie']",3
+"['Shooter', 'Racing', ""Hack and slash/Beat 'em up"", 'Adventure']",3
+"['Puzzle', 'Sport', 'Arcade']",3
+"['Platform', 'Pinball', 'Adventure']",3
+"['Pinball', 'Adventure', 'Arcade']",3
+"['Shooter', 'Strategy', 'Adventure', 'Indie', 'Arcade']",3
+"['Role-playing (RPG)', 'Simulator', 'Adventure', 'Visual Novel']",3
+"['Role-playing (RPG)', 'Strategy', 'Adventure', 'Indie', 'Arcade']",3
+"['Point-and-click', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Adventure', 'Indie']",3
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Tactical', 'Indie']",3
+"['Music', 'Simulator', 'Sport']",3
+"['Shooter', 'Puzzle', 'Adventure', 'Indie', 'Arcade']",3
+"['Point-and-click', 'Adventure', 'Indie', 'Visual Novel']",3
+"['Platform', 'Racing', 'Adventure', 'Indie', 'Arcade']",3
+"['Shooter', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Tactical']",3
+"['Platform', 'Strategy', 'Adventure', 'Indie', 'Arcade']",3
+"['Fighting', 'Shooter', 'Indie', 'Arcade']",3
+"['Puzzle', 'Role-playing (RPG)', 'Adventure', 'Indie', 'Visual Novel']",3
+"['Role-playing (RPG)', 'Sport', 'Strategy', 'Adventure', 'Indie']",3
+"['Fighting', 'Racing', 'Sport']",3
+"['Racing', 'Role-playing (RPG)', 'Simulator', 'Sport', 'Indie']",3
+"['Shooter', 'Puzzle', 'Adventure', 'Arcade']",3
+"['Sport', ""Hack and slash/Beat 'em up"", 'Adventure']",3
+"['Music', 'Sport', 'Indie']",3
+"['Shooter', 'Music', 'Puzzle', 'Indie', 'Arcade']",3
+"['Puzzle', 'Simulator', 'Sport', 'Strategy', 'Indie']",3
+"['Point-and-click', 'Platform', 'Adventure']",3
+"['Simulator', 'Strategy', 'Turn-based strategy (TBS)', 'Card & Board Game']",3
+"['Shooter', 'Simulator', 'Strategy', 'Adventure']",3
+"['Fighting', 'Shooter', 'Sport']",3
+"['Fighting', 'Simulator', 'Strategy']",3
+"['Platform', 'Sport', 'Adventure', 'Indie']",3
+"['Shooter', 'Simulator', 'Sport', 'Indie']",3
+"['Fighting', 'Platform', ""Hack and slash/Beat 'em up"", 'Arcade']",3
+"['Platform', 'Puzzle', ""Hack and slash/Beat 'em up""]",3
+"['Simulator', 'Pinball', 'Indie', 'Arcade']",3
+"['Racing', 'Simulator', 'Strategy', 'Indie']",3
+"['Puzzle', 'Strategy', 'Adventure', 'Arcade']",3
+"['Fighting', 'Sport', 'Adventure']",3
+"['Point-and-click', 'Strategy']",3
+"['Shooter', 'Platform', 'Role-playing (RPG)', 'Adventure', 'Indie']",3
+"['Music', 'Platform', 'Adventure', 'Indie', 'Arcade']",3
+"['Shooter', 'Platform', 'Puzzle', 'Strategy']",3
+"['Music', 'Strategy']",3
+"['Fighting', 'Platform', 'Adventure', 'Arcade']",3
+"['Puzzle', 'Racing', 'Simulator', 'Sport']",3
+"['Role-playing (RPG)', 'Strategy', 'Adventure', 'Indie', 'Visual Novel']",3
+"['Pinball', 'Adventure', 'Indie']",3
+"['Racing', 'Adventure', 'Arcade']",3
+"['Role-playing (RPG)', 'Indie', 'Visual Novel']",3
+"['Racing', 'Pinball']",3
+"['Strategy', 'Turn-based strategy (TBS)', 'Adventure', 'Card & Board Game']",3
+"['Simulator', 'Tactical']",3
+"['Platform', 'Strategy', 'Adventure', 'Arcade']",3
+"['Simulator', 'Strategy', 'Indie', 'Arcade']",3
+"['Puzzle', 'Strategy', 'Arcade', 'Card & Board Game']",3
+"['Real Time Strategy (RTS)', 'Simulator', 'Strategy', 'Adventure', 'Indie']",2
+"['Shooter', 'Simulator', 'Sport', 'Strategy', 'Adventure']",2
+"['Role-playing (RPG)', 'Simulator', 'Visual Novel']",2
+"['Shooter', 'Racing', 'Simulator', 'Sport']",2
+"['Shooter', 'Music', 'Simulator', 'Indie']",2
+"['Point-and-click', 'Shooter', 'Racing', 'Adventure', 'Arcade']",2
+"['Fighting', 'Role-playing (RPG)', 'Strategy']",2
+"['Fighting', 'Sport', 'Strategy']",2
+"['Shooter', 'Platform', 'Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Adventure']",2
+"['Music', 'Racing', 'Indie', 'Arcade']",2
+"['Platform', 'Puzzle', 'Simulator', 'Adventure', 'Indie', 'Arcade']",2
+"['Shooter', 'Platform', 'Puzzle', 'Racing']",2
+"['Music', 'Simulator', 'Sport', 'Indie']",2
+"['Platform', 'Role-playing (RPG)', 'Indie', 'Arcade']",2
+"['Racing', 'Sport', 'Strategy', 'Indie']",2
+"['Fighting', 'Platform', 'Racing']",2
+"['Point-and-click', 'Music', 'Puzzle', 'Adventure', 'Indie']",2
+"['Strategy', 'Adventure', 'Visual Novel']",2
+"['Shooter', 'Platform', 'Real Time Strategy (RTS)', 'Strategy']",2
+"['Racing', 'Simulator', 'Strategy', 'Adventure', 'Indie']",2
+"['Racing', 'Role-playing (RPG)', 'Strategy', 'Indie']",2
+"['Puzzle', 'Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)']",2
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', 'Adventure', 'Indie']",2
+"['Platform', 'Racing', 'Simulator', 'Sport', 'Indie']",2
+"['Racing', 'Role-playing (RPG)', 'Simulator', 'Sport', 'Strategy', 'Adventure', 'Indie']",2
+"['Simulator', 'Quiz/Trivia', 'Adventure']",2
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Visual Novel']",2
+"['Puzzle', 'Sport', 'Indie', 'Arcade']",2
+"['Shooter', 'Platform', 'Racing', 'Arcade']",2
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Indie', 'Visual Novel']",2
+"['Platform', 'Racing', 'Strategy', 'Indie']",2
+"['Real Time Strategy (RTS)', 'Adventure']",2
+"['Role-playing (RPG)', 'Simulator', 'Sport', 'Adventure', 'Indie']",2
+"['Racing', 'Role-playing (RPG)', 'Indie']",2
+"['Music', 'Puzzle', 'Indie', 'Arcade']",2
+"['Music', 'Puzzle', 'Simulator', 'Indie']",2
+"['Puzzle', 'Arcade', 'Card & Board Game']",2
+"['Puzzle', 'Racing', 'Simulator', 'Adventure']",2
+"['Shooter', 'Sport', 'Adventure', 'Indie']",2
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Adventure', 'Arcade']",2
+"['Shooter', 'Simulator', 'Strategy', 'Tactical', 'Indie', 'Arcade']",2
+"['Music', 'Real Time Strategy (RTS)', 'Strategy', 'Indie']",2
+"['Puzzle', 'Racing', 'Arcade']",2
+"['Strategy', 'Turn-based strategy (TBS)', 'Tactical', 'Adventure', 'Indie', 'Visual Novel']",2
+"['Role-playing (RPG)', 'Strategy', 'Tactical', 'Adventure', 'Indie', 'Card & Board Game']",2
+"['Puzzle', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Tactical', 'Adventure', 'Indie']",2
+"['Fighting', 'Role-playing (RPG)', 'Arcade']",2
+"['Strategy', 'Turn-based strategy (TBS)', 'Quiz/Trivia']",2
+"['Role-playing (RPG)', 'Indie', 'Arcade']",2
+"['Puzzle', 'Strategy', 'Tactical', 'Adventure']",2
+"['Shooter', 'Sport', 'Arcade']",2
+"['Shooter', 'Simulator', 'Strategy', 'Indie', 'Arcade']",2
+"['Shooter', 'Tactical', 'Indie', 'Arcade']",2
+"['Puzzle', 'Strategy', 'Tactical', 'Arcade']",2
+"['Shooter', 'Sport', 'Pinball', 'Arcade']",2
+"['Fighting', 'Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie', 'Arcade']",2
+"['Platform', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie', 'Arcade']",2
+"['Simulator', 'Strategy', 'Quiz/Trivia', 'Indie']",2
+"['Strategy', 'Quiz/Trivia', 'Adventure', 'Indie']",2
+"['Shooter', 'Music', 'Platform', 'Adventure']",2
+"['Role-playing (RPG)', 'Tactical', 'Indie']",2
+"['Puzzle', 'Simulator', 'Strategy', 'Adventure']",2
+"['Role-playing (RPG)', 'Sport', 'Indie']",2
+"['Strategy', 'Turn-based strategy (TBS)', 'Adventure', 'Indie', 'Card & Board Game']",2
+"['Racing', 'Role-playing (RPG)', 'Strategy', 'Adventure', 'Indie']",2
+"['Platform', 'Sport', 'Arcade']",2
+"['Shooter', 'Simulator', 'Pinball']",2
+"['Sport', 'Adventure', 'Indie', 'Arcade']",2
+"['Shooter', 'Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",2
+"['Fighting', 'Puzzle', 'Adventure', 'Indie']",2
+"['Music', 'Simulator', 'Arcade']",2
+"['Shooter', 'Real Time Strategy (RTS)', 'Strategy', 'Indie', 'Arcade']",2
+"['Shooter', 'Pinball', 'Adventure', 'Arcade']",2
+"['Shooter', 'Platform', 'Simulator', 'Strategy']",2
+"['Racing', 'Strategy', 'Adventure', 'Indie']",2
+"['Strategy', 'Turn-based strategy (TBS)', 'Adventure', 'Indie']",2
+"['Puzzle', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical', 'Indie']",2
+"['Puzzle', 'Role-playing (RPG)', 'Turn-based strategy (TBS)', 'Adventure', 'Indie', 'Visual Novel']",2
+"['Music', 'Platform', 'Puzzle', 'Adventure', 'Indie', 'Arcade']",2
+"['Role-playing (RPG)', 'Simulator', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",2
+"['Puzzle', 'Sport', 'Indie']",2
+"['Puzzle', 'Simulator', 'Sport', 'Indie', 'Arcade']",2
+"['Puzzle', 'Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', 'Indie']",2
+"['Shooter', 'Music', 'Arcade']",2
+"['Racing', 'Role-playing (RPG)', 'Simulator', 'Indie']",2
+"['Shooter', 'Strategy', 'Pinball']",2
+"['Shooter', 'Racing', 'Role-playing (RPG)', 'Adventure']",2
+"['Music', 'Puzzle', 'Adventure']",2
+"['Fighting', 'Shooter', 'Platform', 'Indie']",2
+"['Shooter', 'Role-playing (RPG)', 'Arcade']",2
+"['Racing', 'Simulator', 'Adventure', 'Indie', 'Arcade']",2
+"['Fighting', 'Shooter', 'Role-playing (RPG)', 'Strategy', 'Adventure']",2
+"['Puzzle', 'Sport', 'Strategy', 'Quiz/Trivia']",2
+"['Puzzle', 'Racing', 'Indie']",2
+"['Point-and-click', 'Simulator', 'Indie']",2
+"['Role-playing (RPG)', 'Simulator', 'Sport', 'Adventure']",2
+"['Shooter', 'Sport', 'Indie', 'Arcade']",2
+"['Strategy', 'Adventure', 'Indie', 'Visual Novel']",2
+"['Fighting', 'Role-playing (RPG)', 'Simulator', 'Sport', 'Strategy', 'Indie']",2
+"['Shooter', 'Puzzle', 'Racing']",2
+"['Point-and-click', 'Quiz/Trivia']",2
+"['Puzzle', 'Role-playing (RPG)', 'Simulator']",2
+"['Platform', 'Racing', 'Simulator', 'Indie']",2
+"['Racing', 'Sport', 'Adventure', 'Indie']",2
+"['Shooter', 'Quiz/Trivia']",2
+"['Quiz/Trivia', 'Adventure', 'Card & Board Game']",2
+"['Fighting', 'Platform', 'Puzzle', 'Adventure', 'Indie']",2
+"['Fighting', 'Puzzle', 'Simulator', 'Strategy', 'Indie', 'Arcade']",2
+"['Shooter', 'Platform', ""Hack and slash/Beat 'em up"", 'Indie']",2
+"['Real Time Strategy (RTS)', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical', 'Indie']",2
+"['Tactical', ""Hack and slash/Beat 'em up""]",2
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Indie']",2
+"['Puzzle', 'Real Time Strategy (RTS)', 'Strategy', 'Arcade']",2
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Tactical', 'Adventure', 'Indie']",2
+"['Fighting', 'Racing', ""Hack and slash/Beat 'em up""]",2
+"['Racing', 'Simulator', 'Sport', 'Strategy', 'Indie']",2
+"['Shooter', 'Platform', 'Racing', 'Indie', 'Arcade']",2
+"['Fighting', 'Puzzle', 'Strategy']",2
+"['Puzzle', 'Simulator', 'Sport', 'Strategy']",2
+"['Fighting', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",2
+"['Fighting', 'Shooter', 'Sport', 'Indie', 'Arcade']",2
+"['Fighting', 'Platform', 'Adventure', 'Indie', 'Arcade']",2
+"['Real Time Strategy (RTS)', 'Strategy', 'Arcade']",2
+"['Racing', 'Adventure', 'Indie', 'Arcade']",2
+"['Shooter', 'Role-playing (RPG)', 'Adventure', 'Arcade']",2
+"['Puzzle', 'Tactical', 'Arcade']",2
+"['Real Time Strategy (RTS)', 'Strategy', 'Tactical', 'Adventure']",2
+"['Shooter', 'Role-playing (RPG)', 'Strategy', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",2
+"['Shooter', 'Racing', 'Simulator', 'Adventure']",2
+"['Point-and-click', 'Role-playing (RPG)', 'Strategy', 'Adventure', 'Indie']",2
+"['Fighting', 'Role-playing (RPG)', 'Sport', ""Hack and slash/Beat 'em up""]",2
+"['Shooter', 'Racing', 'Adventure', 'Arcade']",2
+"['Puzzle', 'Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Strategy']",2
+"['Shooter', 'Real Time Strategy (RTS)', 'Strategy', 'Arcade']",2
+"['Fighting', 'Racing', 'Simulator', 'Sport']",2
+"['Shooter', 'Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Strategy', ""Hack and slash/Beat 'em up""]",2
+"['Shooter', 'Real Time Strategy (RTS)', 'Simulator', 'Tactical']",2
+"['Simulator', 'Strategy', 'Arcade', 'Card & Board Game']",2
+"['Puzzle', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)', 'Adventure', 'Card & Board Game']",2
+"['Fighting', 'Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Adventure', 'Arcade']",2
+"['Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Arcade']",2
+"['Shooter', 'Tactical', 'Adventure', 'Indie', 'Arcade']",2
+"['Music', 'Real Time Strategy (RTS)', 'Strategy']",2
+"['Point-and-click', 'Role-playing (RPG)', 'Strategy', 'Adventure']",2
+"['Fighting', 'Platform', ""Hack and slash/Beat 'em up"", 'Adventure', 'Arcade']",2
+"['Music', 'Role-playing (RPG)', 'Adventure', 'Indie']",2
+"['Fighting', 'Simulator', 'Arcade']",2
+"['Platform', 'Simulator', 'Sport']",2
+"['Strategy', 'MOBA']",2
+"['Music', 'Platform', 'Racing', 'Sport']",2
+"['Puzzle', 'Real Time Strategy (RTS)', 'Strategy', 'Adventure']",2
+"['Fighting', 'Sport', 'Turn-based strategy (TBS)']",2
+"['Shooter', 'Role-playing (RPG)', 'Tactical', 'Adventure']",2
+"['Point-and-click', 'Puzzle', 'Simulator', 'Strategy', 'Adventure']",2
+"['Fighting', 'Puzzle', 'Role-playing (RPG)', 'Strategy', 'Tactical', 'Adventure']",2
+"['Shooter', 'Adventure', 'Visual Novel']",2
+"['Platform', 'Racing', ""Hack and slash/Beat 'em up"", 'Adventure']",2
+"['Shooter', 'Platform', 'Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",2
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Strategy', ""Hack and slash/Beat 'em up""]",2
+"['Sport', 'Tactical']",2
+"['Role-playing (RPG)', 'Tactical', 'Adventure', 'Arcade']",2
+"['Role-playing (RPG)', 'Simulator', 'Strategy', ""Hack and slash/Beat 'em up"", 'Adventure']",2
+"['Real Time Strategy (RTS)', 'Strategy', ""Hack and slash/Beat 'em up""]",2
+"['Role-playing (RPG)', 'Simulator', 'Quiz/Trivia']",2
+"['Fighting', 'Simulator', 'Indie']",2
+"['Racing', 'Strategy', 'Arcade']",2
+"['Fighting', 'Platform', 'Role-playing (RPG)', 'Adventure']",2
+"['Puzzle', 'Real Time Strategy (RTS)', 'Strategy', 'Indie']",2
+"['Platform', 'Role-playing (RPG)', ""Hack and slash/Beat 'em up""]",2
+"['Shooter', 'Simulator', 'Adventure', 'Arcade']",2
+"['Fighting', 'Quiz/Trivia']",2
+"['Racing', 'Sport', ""Hack and slash/Beat 'em up""]",2
+"['Point-and-click', 'Platform', 'Puzzle', 'Adventure']",2
+"['Platform', 'Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Indie']",2
+"['Shooter', 'Platform', 'Pinball']",2
+"['Fighting', 'Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Arcade']",2
+"['Racing', 'Simulator', 'Strategy', 'Adventure']",2
+"['Shooter', 'Platform', 'Role-playing (RPG)', 'Adventure']",2
+"['Quiz/Trivia', 'Adventure', 'Indie']",2
+"['Shooter', 'Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Strategy']",2
+"['Platform', 'Puzzle', 'Simulator', 'Indie']",2
+"['Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', 'Adventure', 'Card & Board Game']",2
+"['Shooter', 'Real Time Strategy (RTS)', 'Strategy', 'Turn-based strategy (TBS)']",2
+"['Platform', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Adventure', 'Indie']",2
+"['Fighting', 'Strategy', ""Hack and slash/Beat 'em up"", 'Adventure']",2
+"['Puzzle', 'Simulator', 'Sport', 'Quiz/Trivia']",2
+"['Fighting', 'Shooter', 'Role-playing (RPG)', 'Adventure']",2
+"['Shooter', 'Racing', 'Role-playing (RPG)']",2
+"['Racing', 'Role-playing (RPG)', 'Adventure']",2
+"['Fighting', 'Shooter', 'Platform', 'Adventure']",2
+"['Puzzle', 'Real Time Strategy (RTS)', 'Simulator', 'Strategy', 'Tactical']",2
+"['Racing', 'Role-playing (RPG)', 'Sport', 'Adventure']",2
+"['Shooter', 'Music', 'Platform', 'Adventure', 'Indie']",2
+"['Music', 'Platform', 'Puzzle']",2
+"['Role-playing (RPG)', 'Simulator', 'Sport', 'Strategy', 'Adventure']",2
+"['Role-playing (RPG)', 'Strategy', 'Quiz/Trivia']",2
+"['Puzzle', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)']",2
+"['Platform', 'Quiz/Trivia']",2
+"['Shooter', 'Role-playing (RPG)', 'Strategy', 'Indie']",2
+"['Point-and-click', 'Simulator', 'Adventure']",2
+"['Shooter', 'Platform', ""Hack and slash/Beat 'em up"", 'Adventure']",2
+"['Point-and-click', 'Racing', 'Adventure']",2
+"['Role-playing (RPG)', 'Simulator', 'Sport', ""Hack and slash/Beat 'em up"", 'Adventure']",2
+"['Music', 'Puzzle', 'Real Time Strategy (RTS)', 'Strategy']",2
+"['Racing', 'Role-playing (RPG)', 'Sport', 'Adventure', 'Indie']",2
+"['Real Time Strategy (RTS)', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)', 'Indie']",2
+"['Platform', 'Simulator', 'Strategy', 'Adventure', 'Indie']",2
+"['Puzzle', 'Adventure', 'Card & Board Game']",2
+"['Fighting', 'Platform', 'Sport', ""Hack and slash/Beat 'em up""]",2
+"['Shooter', 'Puzzle', 'Simulator', 'Strategy']",2
+"['Platform', 'Strategy', ""Hack and slash/Beat 'em up"", 'Indie']",2
+"['Music', 'Puzzle', 'Simulator', 'Arcade']",2
+"['Racing', 'Sport', 'Adventure', 'Arcade']",2
+"['Platform', 'Racing', 'Role-playing (RPG)', 'Adventure']",2
+"['Shooter', 'Simulator', 'Tactical', 'Adventure']",2
+"['Shooter', 'Platform', 'Strategy', 'Adventure', 'Indie']",2
+"['Platform', 'Puzzle', 'Sport', 'Adventure', 'Indie', 'Arcade']",2
+"['Puzzle', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",2
+"['Shooter', 'Real Time Strategy (RTS)', 'Simulator', 'Strategy', 'Adventure']",2
+"['Sport', 'Strategy', 'Arcade']",2
+"['Puzzle', 'Pinball', 'Indie', 'Arcade']",1
+"['Strategy', 'Pinball', 'Adventure']",1
+"['Shooter', 'Simulator', 'Sport', 'Arcade']",1
+"['Shooter', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)']",1
+"['Simulator', 'Strategy', 'Adventure', 'Indie', 'Card & Board Game']",1
+"['Music', 'Platform', 'Adventure']",1
+"['Shooter', 'Real Time Strategy (RTS)', 'Simulator', 'Strategy', 'Tactical', 'Indie']",1
+"['Fighting', 'Shooter', 'Simulator', 'Tactical']",1
+"['Puzzle', 'Role-playing (RPG)', 'Arcade']",1
+"['Simulator', 'Tactical', 'Arcade']",1
+"['Turn-based strategy (TBS)', 'Adventure', 'Card & Board Game']",1
+"['Music', 'Puzzle', 'Strategy', 'Arcade']",1
+"['Platform', 'Role-playing (RPG)', 'Adventure', 'Indie', 'Visual Novel']",1
+"['Fighting', 'Role-playing (RPG)', 'Adventure', 'Arcade']",1
+"['Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical', 'Quiz/Trivia', 'Adventure', 'Visual Novel']",1
+"['Fighting', 'Shooter', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Adventure', 'Indie']",1
+"['Shooter', 'Puzzle', 'Sport']",1
+"['Fighting', 'Role-playing (RPG)', 'Strategy', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",1
+"['Puzzle', 'Racing', 'Simulator', 'Indie', 'Arcade']",1
+"['Point-and-click', 'Simulator', 'Adventure', 'Visual Novel']",1
+"['Puzzle', 'Role-playing (RPG)', 'Adventure', 'Visual Novel']",1
+"['Shooter', 'Racing', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Tactical', 'Indie']",1
+"['Strategy', 'Turn-based strategy (TBS)', 'Tactical', 'Adventure']",1
+"['Platform', 'Puzzle', 'Sport']",1
+"['Fighting', 'Platform', 'Adventure', 'Indie']",1
+"['Arcade', 'MOBA']",1
+"['Shooter', 'Platform', 'Puzzle', 'Role-playing (RPG)', 'Adventure', 'Indie']",1
+"['Puzzle', 'Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",1
+"['Platform', 'Puzzle', 'Pinball', 'Adventure', 'Indie', 'Arcade']",1
+"['Shooter', 'Puzzle', 'Racing', 'Strategy', 'Indie', 'Arcade']",1
+"['Platform', 'Role-playing (RPG)', 'Strategy', 'Adventure', 'Indie', 'Arcade']",1
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Adventure', 'Indie', 'Arcade']",1
+"['Shooter', 'Simulator', 'Sport', 'Adventure', 'Arcade']",1
+"['Racing', 'Simulator', 'Sport', 'Strategy', 'Quiz/Trivia']",1
+"['Point-and-click', 'Tactical', 'Adventure', 'Indie']",1
+"['Fighting', 'Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Strategy', 'Tactical']",1
+"['Platform', 'Simulator', 'Sport', 'Adventure', 'Indie']",1
+"['Fighting', 'Strategy', 'Adventure', 'Indie', 'Arcade']",1
+"['Shooter', 'Simulator', 'Strategy', 'Tactical', 'Indie']",1
+"['Real Time Strategy (RTS)', 'Strategy', 'Turn-based strategy (TBS)', 'Arcade']",1
+"['Shooter', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie', 'Arcade']",1
+"['Role-playing (RPG)', 'Sport', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical']",1
+"['Puzzle', 'Real Time Strategy (RTS)', 'Simulator', 'Strategy', 'Adventure', 'Indie']",1
+"['Puzzle', 'Quiz/Trivia', 'Indie']",1
+"['Shooter', 'Role-playing (RPG)', 'Tactical', 'Adventure', 'Indie']",1
+"['Role-playing (RPG)', 'Simulator', 'Adventure', 'Indie', 'Card & Board Game']",1
+"['Fighting', 'Shooter', 'Role-playing (RPG)', 'Adventure', 'Indie', 'Arcade']",1
+"['Puzzle', 'Strategy', 'Adventure', 'Visual Novel']",1
+"['Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Adventure', 'Arcade']",1
+"['Tactical', 'Indie', 'Arcade']",1
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Strategy', 'Tactical', 'Indie']",1
+"['Fighting', 'Shooter', 'Platform', 'Adventure', 'Indie', 'Arcade']",1
+"['Racing', 'Simulator', 'Sport', 'Strategy', 'Adventure', 'Indie', 'Arcade']",1
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Tactical', ""Hack and slash/Beat 'em up""]",1
+"['Point-and-click', 'Role-playing (RPG)', 'Turn-based strategy (TBS)', 'Adventure', 'Indie']",1
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical', 'Indie']",1
+"['Fighting', 'Shooter', 'Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",1
+"['Point-and-click', 'Role-playing (RPG)', 'Strategy', 'Indie']",1
+"['Puzzle', 'Racing', 'Simulator']",1
+"['Puzzle', 'Racing', 'Role-playing (RPG)', 'Simulator', 'Sport', 'Strategy', 'Adventure', 'Indie']",1
+"['Point-and-click', 'Role-playing (RPG)', 'Adventure', 'Indie', 'Arcade']",1
+"['Shooter', 'Platform', 'Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Adventure', 'Indie']",1
+"['Role-playing (RPG)', 'Sport', ""Hack and slash/Beat 'em up"", 'Indie']",1
+"['Simulator', 'Strategy', 'Tactical', 'Adventure', 'Indie']",1
+"['Shooter', 'Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Strategy', 'Indie']",1
+"['Puzzle', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)', 'Indie', 'Card & Board Game']",1
+"['Puzzle', 'Simulator', 'Strategy', 'Arcade']",1
+"['Platform', 'Puzzle', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",1
+"['Puzzle', 'Strategy', 'Tactical', 'Indie']",1
+"['Platform', 'Puzzle', 'Tactical']",1
+"['Tactical', 'Adventure', 'Arcade']",1
+"['Point-and-click', 'Indie', 'Arcade']",1
+"['Fighting', 'Shooter', 'Pinball', 'Indie', 'Arcade']",1
+"['Puzzle', 'Strategy', 'Turn-based strategy (TBS)', 'Adventure', 'Card & Board Game']",1
+"['Platform', 'Puzzle', 'Simulator']",1
+"['Shooter', 'Puzzle', 'Strategy', 'Tactical']",1
+"['Platform', 'Simulator', 'Strategy', 'Pinball']",1
+"['Shooter', 'Puzzle', 'Racing', 'Strategy', 'Quiz/Trivia']",1
+"['Shooter', 'Puzzle', 'Simulator', 'Turn-based strategy (TBS)']",1
+"['Racing', 'Role-playing (RPG)', 'Simulator', 'Adventure', 'Indie']",1
+"['Fighting', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)']",1
+"['Shooter', 'Music', 'Platform', 'Puzzle', 'Arcade']",1
+"['Music', 'Adventure', 'Arcade']",1
+"['Fighting', 'Role-playing (RPG)', 'Indie', 'Arcade']",1
+"['Fighting', 'Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",1
+"['Platform', 'Role-playing (RPG)', 'Simulator']",1
+"['Fighting', 'Shooter', 'Real Time Strategy (RTS)', 'Strategy']",1
+"['Shooter', 'Racing', 'Real Time Strategy (RTS)', 'Strategy']",1
+"['Shooter', 'Racing', 'Real Time Strategy (RTS)', 'Strategy', 'Adventure']",1
+"['Fighting', 'Shooter', 'Role-playing (RPG)', 'Sport', 'Strategy', 'Adventure']",1
+"['Fighting', 'Shooter', 'Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Strategy']",1
+"['Shooter', 'Puzzle', 'Sport', 'Strategy', 'Tactical']",1
+"['Racing', 'Role-playing (RPG)', 'Strategy']",1
+"['Pinball', 'Adventure', 'Indie', 'Arcade']",1
+"['Puzzle', 'Turn-based strategy (TBS)', 'Adventure', 'Indie']",1
+"['Fighting', 'Real Time Strategy (RTS)', 'Strategy', ""Hack and slash/Beat 'em up"", 'MOBA']",1
+"['Sport', 'Turn-based strategy (TBS)', 'Card & Board Game']",1
+"['Fighting', 'Shooter', 'Platform', 'Puzzle', 'Racing', 'Role-playing (RPG)', 'Strategy', 'Adventure']",1
+"['Turn-based strategy (TBS)', ""Hack and slash/Beat 'em up""]",1
+"['Fighting', 'Real Time Strategy (RTS)', 'Strategy']",1
+"['Fighting', 'Strategy', 'Turn-based strategy (TBS)', 'Arcade']",1
+"['Shooter', 'Platform', 'Strategy', 'Indie', 'Arcade']",1
+"['Puzzle', 'Racing', 'Indie', 'Arcade']",1
+"['Puzzle', 'Racing', 'Strategy', 'Indie', 'Arcade']",1
+"['Fighting', 'Shooter', 'Puzzle', 'Adventure']",1
+"['Music', 'Simulator', 'Adventure']",1
+"['Platform', 'Strategy', 'Turn-based strategy (TBS)', 'Quiz/Trivia']",1
+"['Fighting', 'Platform', 'Puzzle', 'Sport']",1
+"['Sport', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical']",1
+"['Fighting', 'Strategy', ""Hack and slash/Beat 'em up""]",1
+"['Puzzle', 'Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Strategy', 'Adventure', 'Indie']",1
+"['Point-and-click', 'Music', 'Puzzle']",1
+"['Role-playing (RPG)', 'Visual Novel']",1
+"['Puzzle', 'Simulator', 'Adventure', 'Visual Novel']",1
+"['Puzzle', 'Simulator', 'Turn-based strategy (TBS)', 'Quiz/Trivia']",1
+"['Puzzle', 'Pinball', 'Adventure', 'Arcade']",1
+"['Real Time Strategy (RTS)', 'Simulator', 'Indie']",1
+"['Platform', 'Puzzle', 'Role-playing (RPG)', 'Sport', 'Turn-based strategy (TBS)', 'Quiz/Trivia', 'Adventure']",1
+"['Puzzle', 'Simulator', 'Strategy', 'Card & Board Game']",1
+"['Fighting', 'Role-playing (RPG)', 'Strategy', 'Adventure', 'Visual Novel']",1
+"['Real Time Strategy (RTS)', ""Hack and slash/Beat 'em up""]",1
+"['Fighting', 'Role-playing (RPG)', 'Simulator', 'Adventure', 'Indie']",1
+"['Shooter', 'Pinball', 'Indie']",1
+"['Platform', 'Puzzle', 'Racing', 'Sport']",1
+"['Role-playing (RPG)', 'Tactical', 'Visual Novel']",1
+"['Shooter', 'Role-playing (RPG)', 'Simulator', 'Tactical', 'Adventure', 'Indie']",1
+"['Fighting', 'Puzzle', 'Role-playing (RPG)', 'Adventure', 'Indie']",1
+"['Fighting', 'Shooter', 'Strategy', 'Indie']",1
+"['Shooter', 'Music', 'Quiz/Trivia', 'Indie', 'Arcade']",1
+"['Puzzle', 'Strategy', 'Turn-based strategy (TBS)', 'Adventure', 'Indie']",1
+"['Shooter', 'Role-playing (RPG)', 'Strategy', 'Tactical', 'Adventure']",1
+"['Puzzle', 'Racing', 'Adventure', 'Indie', 'Visual Novel']",1
+"['Puzzle', 'Role-playing (RPG)', 'Indie', 'Visual Novel']",1
+"['Puzzle', 'Role-playing (RPG)', 'Adventure', 'Indie', 'Visual Novel', 'Card & Board Game']",1
+"['Fighting', 'Role-playing (RPG)', 'Simulator', 'Sport', ""Hack and slash/Beat 'em up"", 'Adventure']",1
+"['Racing', 'Real Time Strategy (RTS)', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)']",1
+"['Shooter', 'MOBA']",1
+"['Platform', 'Puzzle', 'Strategy', 'Tactical', 'Indie']",1
+"['Racing', 'Simulator', 'Sport', 'Adventure', 'Arcade']",1
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Quiz/Trivia', 'Adventure']",1
+"['Puzzle', 'Sport', 'Strategy', 'Turn-based strategy (TBS)', 'Card & Board Game']",1
+"['Point-and-click', 'Tactical', 'Indie', 'Arcade']",1
+"['Simulator', 'Strategy', 'Adventure', 'Indie', 'Arcade']",1
+"['Puzzle', 'Role-playing (RPG)', 'Tactical', 'Adventure', 'Indie']",1
+"['Fighting', 'Shooter', 'Sport', ""Hack and slash/Beat 'em up"", 'Indie', 'Arcade']",1
+"['Racing', 'Real Time Strategy (RTS)', 'Strategy']",1
+"['Platform', 'Strategy', 'Card & Board Game']",1
+"['Shooter', 'Music', 'Adventure', 'Indie']",1
+"['Platform', 'Puzzle', 'Simulator', 'Strategy', 'Adventure']",1
+"['Fighting', 'Real Time Strategy (RTS)', 'Sport', 'Strategy', 'Tactical']",1
+"['Real Time Strategy (RTS)', 'Arcade']",1
+"['Shooter', 'Platform', 'Puzzle', 'Strategy', 'Arcade']",1
+"['Shooter', 'Puzzle', 'Strategy', 'Adventure', 'Indie']",1
+"['Puzzle', 'Real Time Strategy (RTS)', 'Strategy', 'Tactical']",1
+"['Point-and-click', 'Role-playing (RPG)', 'Simulator', 'Adventure']",1
+"['Shooter', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Indie', 'Arcade']",1
+"['Puzzle', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical']",1
+"['Music', 'Platform', 'Arcade']",1
+"['Shooter', 'Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Indie', 'Arcade']",1
+"['Fighting', 'Role-playing (RPG)', 'Adventure', 'Indie', 'Arcade']",1
+"['Shooter', 'Platform', 'Role-playing (RPG)', 'Strategy']",1
+"['Music', 'Racing', 'Simulator', 'Sport', 'Adventure']",1
+"['Point-and-click', 'Shooter', 'Adventure', 'Arcade']",1
+"['Platform', 'Puzzle', 'Role-playing (RPG)', 'Simulator', 'Adventure', 'Indie']",1
+"['Point-and-click', 'Simulator', 'Strategy', 'Adventure']",1
+"['Music', 'Platform', 'Real Time Strategy (RTS)', 'Adventure', 'Indie']",1
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Tactical', 'Indie']",1
+"['Simulator', ""Hack and slash/Beat 'em up"", 'Adventure']",1
+"['Shooter', 'Platform', 'Puzzle', 'Racing', 'Sport', 'Adventure']",1
+"['Shooter', 'Quiz/Trivia', 'Arcade']",1
+"['Fighting', 'Puzzle', 'Role-playing (RPG)', 'Strategy', 'Adventure', 'Indie']",1
+"['Platform', 'Pinball', 'Indie']",1
+"['Fighting', 'Real Time Strategy (RTS)', 'Strategy', ""Hack and slash/Beat 'em up""]",1
+"['Shooter', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)', 'Pinball']",1
+"['Shooter', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Adventure', 'Indie', 'Arcade']",1
+"['Fighting', 'Simulator', 'Strategy', 'Arcade']",1
+"['Shooter', 'Simulator', 'Strategy', 'Tactical', 'Adventure']",1
+"['Music', 'Racing', 'Adventure']",1
+"['Fighting', 'Visual Novel']",1
+"['Shooter', 'Role-playing (RPG)', 'Strategy', 'Adventure', 'Arcade']",1
+"['Fighting', 'Simulator', 'Sport', 'Arcade']",1
+"['Shooter', 'Music', 'Adventure']",1
+"['Real Time Strategy (RTS)', 'Strategy', 'MOBA']",1
+"['Fighting', 'Platform', 'Puzzle', 'Role-playing (RPG)', 'Adventure']",1
+"['Tactical', 'Adventure', 'Indie']",1
+"['Real Time Strategy (RTS)', 'Simulator', 'Adventure', 'Indie']",1
+"['Shooter', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)', 'Arcade']",1
+"['Platform', ""Hack and slash/Beat 'em up"", 'Adventure', 'Arcade']",1
+"['Fighting', 'Shooter', 'Platform', ""Hack and slash/Beat 'em up""]",1
+"['Role-playing (RPG)', 'Adventure', 'Indie', 'Card & Board Game']",1
+"['Point-and-click', 'Puzzle', 'Role-playing (RPG)', 'Adventure', 'Indie', 'Arcade']",1
+"['Fighting', 'Shooter', 'Puzzle', 'Racing', 'Simulator', 'Sport', 'Strategy']",1
+"['Shooter', 'Puzzle', 'Racing', 'Arcade']",1
+"['Fighting', 'Simulator', ""Hack and slash/Beat 'em up"", 'Indie']",1
+"['Fighting', 'Platform', 'Strategy', ""Hack and slash/Beat 'em up"", 'Adventure', 'Arcade']",1
+"['Platform', 'Simulator', 'Tactical']",1
+"['Shooter', 'Sport', 'Tactical', 'Adventure']",1
+"['Role-playing (RPG)', 'Turn-based strategy (TBS)', ""Hack and slash/Beat 'em up"", 'Card & Board Game']",1
+"['Role-playing (RPG)', 'Indie', 'Arcade', 'Card & Board Game']",1
+"['Role-playing (RPG)', 'Simulator', 'Sport', 'Strategy', 'Indie']",1
+"['Puzzle', ""Hack and slash/Beat 'em up""]",1
+"['Fighting', 'Puzzle', 'Quiz/Trivia']",1
+"['Puzzle', 'Simulator', 'Strategy', 'Quiz/Trivia', 'Card & Board Game']",1
+"['Platform', ""Hack and slash/Beat 'em up"", 'Quiz/Trivia', 'Adventure', 'Card & Board Game']",1
+"['Fighting', 'Simulator', 'Sport', 'Strategy', 'Turn-based strategy (TBS)']",1
+"['Real Time Strategy (RTS)', 'Strategy', ""Hack and slash/Beat 'em up"", 'Adventure']",1
+"['Shooter', 'Sport', 'Strategy', 'Indie', 'Arcade']",1
+"['Platform', 'Puzzle', 'Turn-based strategy (TBS)', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",1
+"['Point-and-click', 'Puzzle', 'Quiz/Trivia', 'Pinball']",1
+"['Platform', 'Role-playing (RPG)', 'Simulator', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",1
+"['Role-playing (RPG)', 'Strategy', 'Adventure', 'Indie', 'Card & Board Game']",1
+"['Platform', 'Simulator', 'Indie']",1
+"['Fighting', 'Racing', 'Arcade']",1
+"['Puzzle', 'Real Time Strategy (RTS)', 'Strategy', 'Adventure', 'Indie']",1
+"['Shooter', 'Racing', 'Strategy']",1
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Turn-based strategy (TBS)', 'Card & Board Game']",1
+"['Shooter', 'Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Adventure', 'Arcade']",1
+"['Tactical', 'Quiz/Trivia']",1
+"['Puzzle', 'Role-playing (RPG)', 'Tactical']",1
+"['Music', 'Puzzle', 'Strategy', 'Quiz/Trivia']",1
+"['Fighting', 'Turn-based strategy (TBS)', 'Indie', 'Arcade']",1
+"['Platform', 'Puzzle', 'Racing', 'Sport', 'Indie']",1
+"['Simulator', 'Sport', 'Strategy', 'Quiz/Trivia']",1
+"['Music', 'Real Time Strategy (RTS)', 'Simulator', 'Strategy', 'Adventure']",1
+"['Fighting', 'Platform', 'Role-playing (RPG)', ""Hack and slash/Beat 'em up""]",1
+"['Simulator', 'Sport', 'Quiz/Trivia']",1
+"['Sport', 'Turn-based strategy (TBS)', 'Arcade']",1
+"['Role-playing (RPG)', 'Strategy', 'MOBA']",1
+"['Music', 'Racing']",1
+"['Point-and-click', 'Real Time Strategy (RTS)']",1
+"['Platform', 'Racing', 'Simulator', 'Strategy', 'Adventure']",1
+"['Simulator', 'Sport', 'Strategy', 'Adventure', 'Arcade']",1
+"['Fighting', 'Platform', 'Puzzle', 'Adventure']",1
+"['Puzzle', 'Racing', 'Simulator', 'Sport', 'Strategy']",1
+"['Role-playing (RPG)', 'Simulator', 'Turn-based strategy (TBS)']",1
+"['Point-and-click', 'Indie']",1
+"['Shooter', 'Puzzle', 'Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Adventure', 'Arcade']",1
+"['Puzzle', 'Quiz/Trivia', 'Arcade']",1
+"['Shooter', 'Puzzle', 'Role-playing (RPG)']",1
+"['Racing', 'Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Strategy', 'Arcade']",1
+"['Point-and-click', 'Visual Novel']",1
+"['Point-and-click', 'Sport', 'Strategy', 'Indie']",1
+"['Point-and-click', 'Strategy', 'Tactical', 'Card & Board Game']",1
+"['Shooter', 'Platform', 'Role-playing (RPG)', 'Adventure', 'Arcade']",1
+"['Music', 'Platform', 'Adventure', 'Arcade']",1
+"['Simulator', 'Sport', 'Strategy', 'Tactical']",1
+"['Shooter', 'Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Adventure']",1
+"['Music', 'Real Time Strategy (RTS)', 'Simulator', 'Strategy']",1
+"['Puzzle', 'Sport', 'Strategy', 'Turn-based strategy (TBS)', 'Indie']",1
+"['Tactical', 'Quiz/Trivia', 'Indie']",1
+"['Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', ""Hack and slash/Beat 'em up""]",1
+"['Simulator', 'Quiz/Trivia', 'Card & Board Game']",1
+"['Role-playing (RPG)', 'Adventure', 'Card & Board Game']",1
+"['Puzzle', 'Simulator', 'Strategy', 'Pinball', 'Arcade']",1
+"['Puzzle', 'Quiz/Trivia', 'Adventure']",1
+"['Strategy', 'Visual Novel']",1
+"['Adventure', 'Visual Novel', 'Card & Board Game']",1
+"['Fighting', 'Platform', 'Role-playing (RPG)']",1
+"['Racing', 'Role-playing (RPG)', 'Sport']",1
+"['Platform', 'Turn-based strategy (TBS)']",1
+"['Fighting', 'Puzzle', 'Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', 'Adventure']",1
+"['Puzzle', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical', 'Adventure', 'Indie']",1
+"['Shooter', 'Music', 'Platform', 'Puzzle', 'Role-playing (RPG)', 'Sport', 'Strategy', 'Adventure']",1
+"['Fighting', 'Shooter', 'Racing', 'Strategy', 'Adventure']",1
+"['Fighting', 'Shooter', 'Racing', 'Simulator', 'Sport', 'Strategy', 'Adventure']",1
+"['Fighting', 'Shooter', 'Puzzle', 'Racing', 'Simulator', 'Sport', 'Strategy', 'Adventure']",1
+"['Shooter', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Tactical', 'Indie', 'Arcade']",1
+"['Puzzle', 'Racing', 'Quiz/Trivia']",1
+"['Racing', 'Quiz/Trivia']",1
+"['Role-playing (RPG)', 'Strategy', ""Hack and slash/Beat 'em up""]",1
+"['Point-and-click', 'Arcade']",1
+"['Fighting', 'Shooter', 'Simulator', 'Sport']",1
+"['Shooter', 'Role-playing (RPG)', 'Simulator', 'Strategy', ""Hack and slash/Beat 'em up"", 'Adventure']",1
+"['Simulator', 'Sport', 'Strategy', 'Turn-based strategy (TBS)', 'Adventure', 'Indie']",1
+"['Point-and-click', 'Real Time Strategy (RTS)', 'Strategy', 'Tactical', 'Adventure']",1
+"[""Hack and slash/Beat 'em up"", 'Adventure', 'Visual Novel']",1
+"['Simulator', 'Strategy', 'Adventure', 'Visual Novel']",1
+"['Racing', 'Sport', 'Quiz/Trivia']",1
+"['Puzzle', 'Racing', 'Strategy', 'Quiz/Trivia']",1
+"['Racing', 'Indie', 'Arcade', 'Card & Board Game']",1
+"['Fighting', 'Strategy', 'Quiz/Trivia']",1
+"['Racing', 'Sport', 'Pinball']",1
+"['Racing', 'Simulator', 'Sport', 'Strategy', 'Adventure']",1
+"['Shooter', 'Racing', 'Simulator', 'Sport', 'Indie']",1
+"['Fighting', 'Shooter', 'Strategy', 'Adventure', 'Indie']",1
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Tactical', 'Indie', 'Arcade']",1
+"['Music', 'Role-playing (RPG)', 'Strategy', 'Adventure', 'Indie']",1
+"['Fighting', 'Racing', 'Adventure', 'Indie']",1
+"['Role-playing (RPG)', 'Pinball', 'Adventure', 'Indie']",1
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', 'Adventure']",1
+"['Puzzle', 'Simulator', 'Visual Novel']",1
+"['Fighting', 'Simulator', 'Adventure', 'Indie', 'Arcade']",1
+"['Shooter', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",1
+"['Indie', 'Card & Board Game']",1
+"['Fighting', 'Sport', 'Strategy', 'Indie']",1
+"['Point-and-click', 'Real Time Strategy (RTS)', 'Strategy', 'Adventure']",1
+"['Shooter', 'Puzzle', 'Strategy', 'Indie', 'Arcade']",1
+"['Shooter', 'Simulator', 'Adventure', 'Indie', 'Arcade', 'Visual Novel']",1
+"['Fighting', 'Shooter', 'Tactical']",1
+"['Puzzle', 'Strategy', 'Turn-based strategy (TBS)', 'Indie', 'Visual Novel', 'Card & Board Game']",1
+"['Point-and-click', 'Platform', 'Adventure', 'Arcade']",1
+"['Shooter', 'Puzzle', 'Role-playing (RPG)', 'Strategy', 'Tactical', 'Adventure']",1
+"['Shooter', 'Sport', 'Turn-based strategy (TBS)', 'Indie']",1
+"['Sport', 'Arcade', 'Card & Board Game']",1
+"['Puzzle', 'Indie', 'Visual Novel']",1
+"['Fighting', 'Shooter', 'Platform', 'Strategy', 'Indie', 'Arcade']",1
+"['Shooter', 'Music', 'Adventure', 'Indie', 'Arcade']",1
+"['Puzzle', 'Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', 'Card & Board Game']",1
+"['Simulator', 'Strategy', 'Visual Novel', 'Card & Board Game']",1
+"['Shooter', 'Real Time Strategy (RTS)', 'Strategy', 'Tactical', 'Adventure']",1
+"['Fighting', 'Shooter', 'Real Time Strategy (RTS)', 'Sport', 'Strategy', ""Hack and slash/Beat 'em up"", 'Indie']",1
+"['Fighting', 'Simulator', 'Adventure', 'Indie']",1
+"['Racing', 'Simulator', 'Pinball']",1
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Quiz/Trivia']",1
+"['Shooter', 'Platform', 'Puzzle', 'Role-playing (RPG)', 'Turn-based strategy (TBS)', 'Adventure']",1
+"['Role-playing (RPG)', 'Strategy', 'Adventure', 'Indie', 'Arcade', 'Card & Board Game']",1
+"['Puzzle', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie', 'Arcade']",1
+"['Real Time Strategy (RTS)', 'Strategy', ""Hack and slash/Beat 'em up"", 'Indie']",1
+"['Puzzle', 'Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical', 'Adventure', 'Indie']",1
+"['Platform', 'Strategy', 'Indie', 'MOBA']",1
+"['Shooter', 'Role-playing (RPG)', 'Tactical', 'Arcade']",1
+"['Tactical', 'Adventure', 'Indie', 'Arcade']",1
+"['Puzzle', 'Role-playing (RPG)', 'Strategy', 'Tactical', 'Adventure']",1
+"['Shooter', 'Simulator', 'Tactical', 'Indie']",1
+"['Shooter', 'Platform', 'Simulator', 'Strategy', 'Adventure']",1
+"['Puzzle', 'Tactical', 'Adventure', 'Indie']",1
+"['Fighting', 'Simulator', 'Strategy', ""Hack and slash/Beat 'em up"", 'Adventure']",1
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Strategy', 'Tactical', 'MOBA']",1
+"['Fighting', 'Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Indie', 'Arcade']",1
+"['Fighting', 'Simulator', 'Sport', 'Indie']",1
+"['Racing', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Indie']",1
+"['Shooter', 'Puzzle', 'Simulator', 'Indie']",1
+"['Point-and-click', ""Hack and slash/Beat 'em up"", 'Adventure', 'Arcade']",1
+"['Puzzle', 'Role-playing (RPG)', 'Simulator', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",1
+"['Fighting', 'Role-playing (RPG)', 'Strategy', 'Tactical', 'Adventure']",1
+"['Fighting', 'Shooter', 'Simulator', ""Hack and slash/Beat 'em up"", 'Indie']",1
+"['Shooter', 'Platform', 'Strategy', 'Adventure']",1
+"['Fighting', 'Shooter', 'Music', 'Indie', 'Arcade']",1
+"['Puzzle', 'Simulator', 'Sport', 'Strategy', 'Quiz/Trivia', 'Indie', 'Card & Board Game']",1
+"['Shooter', 'Platform', 'Puzzle', 'Role-playing (RPG)']",1
+"['Music', 'Platform', 'Racing', 'Indie']",1
+"['Point-and-click', 'Puzzle', 'Quiz/Trivia', 'Adventure']",1
+"['Racing', 'Simulator', 'Strategy', 'Indie', 'Arcade']",1
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Adventure']",1
+"['Music', 'Puzzle', 'Indie', 'Card & Board Game']",1
+"['Shooter', 'Puzzle', 'Simulator', 'Strategy', 'Tactical']",1
+"['Fighting', 'Platform', 'Racing', 'Simulator', 'Sport', 'Adventure', 'Indie']",1
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical', 'Adventure']",1
+"['Racing', 'Role-playing (RPG)', 'Sport', 'Strategy', 'Adventure']",1
+"['Shooter', 'Strategy', ""Hack and slash/Beat 'em up"", 'Adventure']",1
+"['Puzzle', 'Racing', 'Strategy', 'Adventure', 'Indie']",1
+"['Real Time Strategy (RTS)', 'Tactical']",1
+"['Puzzle', 'Simulator', 'Strategy', 'Adventure', 'Indie', 'Arcade']",1
+"['Puzzle', 'Sport', 'Strategy', 'Indie']",1
+"['Role-playing (RPG)', 'Strategy', 'Indie', 'Arcade']",1
+"['Role-playing (RPG)', 'Turn-based strategy (TBS)', 'Tactical', ""Hack and slash/Beat 'em up"", 'Indie']",1
+"['Point-and-click', 'Music', 'Quiz/Trivia']",1
+"['Role-playing (RPG)', 'Strategy', ""Hack and slash/Beat 'em up"", 'Indie']",1
+"['Racing', 'Sport', 'Strategy', 'Adventure', 'Indie']",1
+"['Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', 'Indie', 'Arcade']",1
+"['Role-playing (RPG)', 'Quiz/Trivia', 'Adventure', 'Indie']",1
+"['Simulator', 'Sport', 'Adventure', 'Indie', 'Arcade']",1
+"['Fighting', 'Simulator', 'Indie', 'Arcade']",1
+"['Real Time Strategy (RTS)', 'Tactical', 'Indie', 'Visual Novel']",1
+"['Shooter', 'Platform', 'Puzzle', 'Strategy', 'Indie']",1
+"['Role-playing (RPG)', 'Simulator', 'Sport']",1
+"['Fighting', 'Shooter', 'Platform', 'Simulator', 'Strategy']",1
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Strategy', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",1
+"['Platform', 'Puzzle', 'Role-playing (RPG)', 'Strategy', 'Adventure', 'Indie']",1
+"['Platform', 'Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie', 'Arcade']",1
+"['Shooter', 'Platform', 'Tactical', 'Indie']",1
+"['Simulator', 'Pinball', 'Indie']",1
+"['Racing', 'Simulator', 'Sport', 'Strategy', 'Adventure', 'Indie']",1
+"['Sport', 'Turn-based strategy (TBS)', 'Indie']",1
+"['Fighting', 'Shooter', 'Strategy', 'Adventure', 'Indie', 'Arcade', 'Card & Board Game']",1
+"['Simulator', 'Strategy', 'Quiz/Trivia', 'Adventure', 'Indie']",1
+"['Fighting', 'Shooter', 'Music', 'Platform', 'Role-playing (RPG)', 'Simulator', 'Sport', 'Strategy', 'Adventure', 'Arcade']",1
+"['Platform', 'Puzzle', 'Sport', 'Indie']",1
+"['Turn-based strategy (TBS)', 'Pinball', 'Adventure', 'Indie']",1
+"['Fighting', 'Sport', 'Adventure', 'Arcade']",1
+"['Strategy', 'Quiz/Trivia', 'Indie', 'Card & Board Game']",1
+"['Puzzle', 'Simulator', 'Strategy', 'Arcade', 'Card & Board Game']",1
+"['Shooter', 'Simulator', 'Sport', 'Indie', 'Arcade']",1
+"['Puzzle', 'Simulator', 'Sport', 'Strategy', 'Adventure', 'Indie']",1
+"['Shooter', 'Simulator', 'Sport', 'Strategy', 'Arcade']",1
+"['Shooter', 'Platform', 'Simulator', 'Adventure', 'Indie']",1
+"['Fighting', 'Shooter', 'Role-playing (RPG)', 'Strategy', 'Adventure', 'Indie', 'Arcade']",1
+"['Shooter', ""Hack and slash/Beat 'em up"", 'Indie', 'Arcade']",1
+"['Platform', 'Tactical', 'Indie', 'Arcade']",1
+"['Racing', 'Role-playing (RPG)', 'Simulator', 'Sport', 'Adventure', 'Indie']",1
+"['Puzzle', 'Strategy', 'Adventure', 'Indie', 'Arcade', 'Card & Board Game']",1
+"['Racing', 'Role-playing (RPG)', 'Simulator', 'Adventure']",1
+"['Fighting', 'Shooter', 'Racing', 'Role-playing (RPG)', 'Strategy', 'Adventure']",1
+"['Role-playing (RPG)', 'Turn-based strategy (TBS)', 'Arcade']",1
+"['Puzzle', 'Role-playing (RPG)', 'Pinball']",1
+"['Simulator', 'Strategy', 'Indie', 'Arcade', 'Visual Novel']",1
+"['Puzzle', 'Simulator', 'Turn-based strategy (TBS)']",1
+"['Sport', 'Pinball', 'Adventure', 'Arcade']",1
+"['Fighting', 'Music', 'Platform', 'Racing', 'Sport', 'Adventure', 'Arcade']",1
+"['Platform', 'Puzzle', 'Racing', 'Sport', 'Adventure', 'Arcade']",1
+"['Strategy', 'Tactical', ""Hack and slash/Beat 'em up""]",1
+"['Strategy', 'Pinball']",1
+"['Platform', 'Quiz/Trivia', 'Arcade']",1
+"['Music', 'Platform', 'Puzzle', 'Indie']",1
+"['Role-playing (RPG)', 'Simulator', 'Quiz/Trivia', 'Adventure', 'Indie']",1
+"['Fighting', 'Role-playing (RPG)', 'Simulator', ""Hack and slash/Beat 'em up"", 'Adventure']",1
+"['Sport', 'Strategy', 'Adventure', 'Arcade']",1
+"['Platform', 'Racing', 'Sport', 'Adventure', 'Indie']",1
+"['Fighting', 'Shooter', 'Puzzle', 'Racing', 'Role-playing (RPG)', 'Simulator', 'Sport', 'Strategy', 'Adventure', 'Arcade']",1
+"['Shooter', 'Platform', 'Puzzle', 'Racing', 'Strategy', 'Arcade']",1
+"['Shooter', 'Platform', 'Role-playing (RPG)', 'Strategy', 'Adventure', 'Indie']",1
+"['Shooter', 'Sport', 'Pinball']",1
+"['Role-playing (RPG)', 'Sport', 'Strategy', 'Turn-based strategy (TBS)']",1
+"['Music', 'Sport', 'Pinball']",1
+"['Puzzle', 'Role-playing (RPG)', 'Strategy', 'Adventure', 'Visual Novel']",1
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical', 'Adventure', 'Visual Novel']",1
+"['Puzzle', 'Strategy', 'Turn-based strategy (TBS)', 'Adventure']",1
+"['Simulator', 'Strategy', 'Pinball', 'Arcade']",1
+"['Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', 'Quiz/Trivia', 'Adventure', 'Indie', 'Card & Board Game']",1
+"['Platform', 'Sport', 'Strategy', 'Adventure']",1
+"['Point-and-click', 'Sport', 'Adventure']",1
+"['Shooter', 'Platform', 'Puzzle', 'Adventure', 'Indie', 'Arcade']",1
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Strategy', 'Indie', 'Arcade']",1
+"['Platform', 'Real Time Strategy (RTS)', 'Adventure']",1
+"['Platform', 'Puzzle', 'Racing', 'Simulator', 'Strategy', 'Adventure']",1
+"['Simulator', 'Tactical', 'Indie']",1
+"['Role-playing (RPG)', 'Turn-based strategy (TBS)', 'Tactical', 'Indie']",1
+"['Role-playing (RPG)', 'Strategy', 'Quiz/Trivia', 'Adventure', 'Indie', 'Card & Board Game']",1
+"['Role-playing (RPG)', 'Strategy', 'Quiz/Trivia', 'Indie']",1
+"['Role-playing (RPG)', 'Simulator', 'Sport', 'Indie']",1
+"['Racing', 'Simulator', 'Adventure', 'Arcade']",1
+"['Shooter', 'Real Time Strategy (RTS)', 'Strategy', 'Tactical', 'Indie']",1
+"[""Hack and slash/Beat 'em up"", 'Visual Novel']",1
+"['Point-and-click', 'Puzzle', 'Strategy', 'Adventure', 'Visual Novel']",1
+"['Music', 'Platform', 'Puzzle', 'Real Time Strategy (RTS)', 'Strategy', 'Indie']",1
+"['Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Indie', 'Arcade']",1
+"['Fighting', 'Role-playing (RPG)', 'Strategy', 'Tactical', ""Hack and slash/Beat 'em up""]",1
+"['Shooter', 'Racing', 'Simulator', 'Indie']",1
+"['Point-and-click', 'Platform', 'Strategy', 'Adventure']",1
+"['Simulator', 'Sport', 'Pinball']",1
+"['Shooter', 'Platform', 'Puzzle', 'Racing', 'Arcade']",1
+"['Shooter', 'Real Time Strategy (RTS)', 'Role-playing (RPG)']",1
+"['Fighting', 'Simulator', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie', 'Arcade']",1
+"['Platform', 'Puzzle', 'Strategy', 'Tactical', 'Indie', 'Arcade']",1
+"['Music', 'Puzzle', 'Strategy', 'Tactical', 'Indie']",1
+"['Strategy', 'Adventure', 'Card & Board Game']",1
+"['Racing', 'Strategy', ""Hack and slash/Beat 'em up"", 'Adventure']",1
+"['Shooter', 'Puzzle', 'Strategy', 'Adventure']",1
+"['Puzzle', 'Racing', 'Strategy']",1
+"['Point-and-click', 'Platform', 'Puzzle', 'Adventure', 'Indie']",1
+"['Puzzle', 'Sport', 'Strategy', 'Pinball']",1
+"['Simulator', 'Strategy', 'Adventure', 'Arcade']",1
+"['Platform', 'Racing', 'Simulator']",1
+"['Real Time Strategy (RTS)', 'Sport', 'Strategy', 'Turn-based strategy (TBS)']",1
+"['Quiz/Trivia', 'Adventure', 'Indie', 'Visual Novel']",1
+"['Puzzle', 'Simulator', 'Sport', 'Strategy', 'Adventure']",1
+"['Puzzle', 'Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical', 'Adventure', 'Indie', 'Card & Board Game']",1
+"['Puzzle', 'Strategy', 'Tactical', 'Adventure', 'Indie']",1
+"['Shooter', 'Strategy', 'Tactical', 'Arcade']",1
+"['Music', 'Adventure', 'Indie', 'Visual Novel']",1
+"['Platform', 'Racing', 'Simulator', ""Hack and slash/Beat 'em up""]",1
+"['Role-playing (RPG)', 'Simulator', 'Sport', 'Strategy', 'Tactical', 'Adventure', 'Arcade']",1
+"['Platform', 'Sport', 'Strategy']",1
+"['Shooter', 'Strategy', 'Adventure', 'MOBA']",1
+"['Shooter', 'Strategy', 'Quiz/Trivia', 'Indie']",1
+"['Shooter', 'Racing', 'Simulator', ""Hack and slash/Beat 'em up""]",1
+"['Shooter', ""Hack and slash/Beat 'em up"", 'Adventure', 'Arcade']",1
+"['Sport', 'Adventure', 'Arcade']",1
+"['Fighting', 'Tactical', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",1
+"['Platform', 'Puzzle', 'Simulator', 'Strategy', 'Adventure', 'Indie']",1
+"['Shooter', 'Racing', 'Turn-based strategy (TBS)']",1
+"['Puzzle', 'Simulator', 'Indie', 'Arcade']",1
+"['Shooter', 'Racing', 'Pinball']",1
+"['Strategy', ""Hack and slash/Beat 'em up"", 'Quiz/Trivia', 'Adventure']",1
+"['Fighting', 'Real Time Strategy (RTS)']",1
+"['Fighting', 'Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Strategy', 'Indie']",1
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Simulator', 'Tactical', 'Visual Novel']",1
+"['Platform', 'Puzzle', 'Strategy', 'Adventure', 'Arcade']",1
+"['Music', 'Role-playing (RPG)', 'Simulator', 'Indie']",1
+"['Puzzle', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Indie', 'Arcade']",1
+"['Fighting', 'Music', 'Platform', 'Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",1
+"['Shooter', 'Simulator', 'Tactical', 'Adventure', 'Arcade']",1
+"['Shooter', 'Platform', 'Puzzle', 'Pinball']",1
+"['Role-playing (RPG)', 'Strategy', 'Adventure', 'Arcade']",1
+"['Puzzle', 'Role-playing (RPG)', 'Adventure', 'Arcade']",1
+"['Puzzle', 'Simulator', 'Adventure', 'Arcade']",1
+"['Shooter', 'Puzzle', 'Strategy', 'Adventure', 'Arcade']",1
+"['Point-and-click', 'Puzzle', 'Role-playing (RPG)', 'Adventure', 'Visual Novel']",1
+"['Fighting', 'Racing', 'Simulator', 'Sport', 'Adventure']",1
+"['Platform', 'Puzzle', 'Pinball', 'Adventure']",1
+"['Tactical', ""Hack and slash/Beat 'em up"", 'Adventure']",1
+"['Shooter', 'Pinball', 'Adventure']",1
+"['Fighting', 'Platform', 'Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Adventure']",1
+"['Fighting', 'Shooter', 'Racing', 'Real Time Strategy (RTS)', 'Simulator', 'Strategy', 'Arcade']",1
+"['Role-playing (RPG)', 'Strategy', 'Quiz/Trivia', 'Adventure']",1
+"['Puzzle', 'Sport', 'Strategy', 'Tactical']",1
+"['Fighting', 'Role-playing (RPG)', 'Sport']",1
+"['Puzzle', 'Role-playing (RPG)', 'Tactical', 'Adventure']",1
+"['Puzzle', 'Sport', 'Strategy', 'Arcade']",1
+"['Shooter', 'Racing', 'Strategy', 'Tactical']",1
+"['Shooter', 'Sport', ""Hack and slash/Beat 'em up"", 'Arcade']",1
+"['Platform', 'Racing', 'Simulator', 'Sport', 'Arcade']",1
+"['Shooter', 'Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Strategy', 'Adventure', 'Indie']",1
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Indie', 'Card & Board Game']",1
+"['Fighting', 'Shooter', 'Adventure', 'Indie']",1
+"['Shooter', 'Role-playing (RPG)', 'Simulator', 'Sport', 'Strategy', 'Indie']",1
+"['Music', 'Platform', 'Puzzle', 'Strategy', 'Indie']",1
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Simulator', 'Adventure', 'Indie']",1
+"['Sport', 'Turn-based strategy (TBS)', 'Tactical', 'Indie', 'Card & Board Game']",1
+"['Role-playing (RPG)', 'Simulator', 'Turn-based strategy (TBS)', 'Visual Novel']",1
+"['Quiz/Trivia', 'Arcade', 'Card & Board Game']",1
+"['Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical', 'Card & Board Game']",1
+"['Point-and-click', 'Racing', 'Simulator']",1
+"['Fighting', 'Simulator', ""Hack and slash/Beat 'em up""]",1
+"['Shooter', 'Platform', 'Racing', 'Sport', 'Indie', 'Arcade']",1
+"['Real Time Strategy (RTS)', 'Strategy', ""Hack and slash/Beat 'em up"", 'Arcade']",1
+"['Simulator', 'Turn-based strategy (TBS)', 'Adventure', 'Indie']",1
+"['Music', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Adventure']",1
+"['Puzzle', 'Tactical', 'Indie']",1
+"['Puzzle', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Indie', 'Visual Novel']",1
+"['Platform', 'Puzzle', 'Role-playing (RPG)', 'Arcade']",1
+"['Platform', 'Puzzle', 'Strategy', 'Adventure', 'Indie', 'Arcade']",1
+"['Fighting', 'Shooter', 'Racing', 'Sport']",1
+"['Role-playing (RPG)', 'Strategy', 'Tactical', 'Visual Novel']",1
+"['Shooter', 'Music', 'Racing', 'Adventure', 'Indie']",1
+"['Shooter', 'Simulator', 'Sport', 'Pinball', 'Arcade']",1
+"['Platform', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)']",1
+"[""Hack and slash/Beat 'em up"", 'Adventure', 'Indie', 'Arcade']",1
+"['Shooter', 'Role-playing (RPG)', 'Simulator', 'Strategy']",1
+"['Point-and-click', 'Shooter', 'Puzzle', 'Adventure', 'Indie']",1
+"['Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', 'Quiz/Trivia', 'Adventure']",1
+"['Puzzle', 'Role-playing (RPG)', 'Turn-based strategy (TBS)', 'Adventure', 'Indie']",1
+"['Fighting', 'Shooter', 'Platform', 'Racing', ""Hack and slash/Beat 'em up""]",1
+"['Simulator', 'Sport', 'Strategy', 'Indie', 'Arcade']",1
+"['Fighting', 'Simulator', 'Adventure', 'Arcade']",1
+"['Fighting', 'Racing', 'Simulator', 'Sport', 'Strategy']",1
+"['Platform', 'Puzzle', 'Racing', 'Sport', 'Strategy', 'Adventure']",1
+"['Fighting', 'Strategy', 'Turn-based strategy (TBS)', ""Hack and slash/Beat 'em up"", 'Indie']",1
+"['Platform', 'Role-playing (RPG)', 'Strategy']",1
+"['Platform', 'Puzzle', 'Quiz/Trivia', 'Adventure', 'Indie']",1
+"['Platform', 'Puzzle', 'Racing', 'Simulator', 'Sport', 'Indie', 'Arcade']",1
+"['Music', ""Hack and slash/Beat 'em up""]",1
+"['Shooter', 'Music', 'Puzzle', 'Racing', 'Sport', 'Strategy', 'Indie', 'Arcade']",1
+"['Fighting', 'Music', 'Strategy', 'Adventure', 'Indie']",1
+"['Shooter', 'Turn-based strategy (TBS)', 'Arcade']",1
+"['Shooter', 'Racing', 'Sport', ""Hack and slash/Beat 'em up"", 'Arcade']",1
+"['Point-and-click', 'Platform', 'Puzzle', 'Quiz/Trivia', 'Adventure']",1
+"['Shooter', 'Simulator', 'Sport', 'Strategy', 'Tactical', 'Indie']",1
+"['Music', 'Platform', 'Puzzle', 'Strategy']",1
+"['Platform', 'Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Strategy', 'Adventure', 'Indie']",1
+"['Platform', 'Strategy', 'Tactical', 'Indie']",1
+"['Strategy', 'Pinball', 'Arcade']",1
+"['Point-and-click', 'Simulator', 'Strategy']",1
+"['Simulator', 'Quiz/Trivia', 'Indie']",1
+"['Fighting', 'Racing', 'Role-playing (RPG)']",1
+"['Platform', 'Puzzle', 'Role-playing (RPG)', 'Indie']",1
+"['Shooter', 'Strategy', 'Turn-based strategy (TBS)', 'Adventure']",1
+"['Puzzle', 'Quiz/Trivia', 'Adventure', 'Card & Board Game']",1
+"['Shooter', 'Platform', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",1
+"['Platform', 'Puzzle', 'Role-playing (RPG)', 'Adventure', 'Indie', 'Arcade']",1
+"['Fighting', 'Role-playing (RPG)', 'Sport', 'Strategy', 'Arcade']",1
+"['Fighting', 'Shooter', 'Puzzle', 'Tactical', 'Indie']",1
+"['Shooter', 'Music', 'Adventure', 'Visual Novel']",1
+"['Shooter', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical']",1
+"['Fighting', 'Shooter', 'Racing', 'Real Time Strategy (RTS)', 'Sport', 'Strategy']",1
+"['Shooter', 'Music', 'Puzzle']",1
+"['Platform', 'Strategy', 'Turn-based strategy (TBS)']",1
+"['Fighting', 'Platform', 'Puzzle', 'Racing', 'Adventure', 'Arcade']",1
+"['Fighting', 'Role-playing (RPG)', 'Strategy', ""Hack and slash/Beat 'em up""]",1
+"['Fighting', 'Role-playing (RPG)', 'Tactical']",1
+"['Fighting', 'Shooter', 'Platform', 'Puzzle', 'Adventure', 'Arcade']",1
+"['Shooter', 'Puzzle', 'Strategy', 'Indie']",1
+"['Platform', 'Puzzle', 'Sport', 'Strategy']",1
+"['Platform', 'Puzzle', 'Real Time Strategy (RTS)', 'Strategy', 'Indie']",1
+"['Puzzle', 'Simulator', 'Pinball', 'Adventure']",1
+"['Point-and-click', 'Shooter', 'Puzzle', 'Adventure', 'Arcade']",1
+"['Puzzle', 'Role-playing (RPG)', 'Strategy', 'Adventure', 'Indie', 'Visual Novel']",1
+"['Puzzle', 'Role-playing (RPG)', 'Turn-based strategy (TBS)', 'Indie', 'Card & Board Game']",1
+"['Shooter', 'Puzzle', ""Hack and slash/Beat 'em up"", 'Adventure']",1
+"['Fighting', 'Music', 'Indie']",1
+"['Platform', 'Strategy', 'Turn-based strategy (TBS)', 'Adventure', 'Indie']",1
+"['Fighting', 'Racing', 'Simulator']",1
+"['Role-playing (RPG)', 'Tactical', 'Indie', 'Arcade']",1
+"['Music', 'Role-playing (RPG)', 'Strategy', 'Adventure', 'Indie', 'Visual Novel', 'Card & Board Game']",1
+"['Music', 'Puzzle', 'Strategy', 'Adventure', 'Indie']",1
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)', 'Adventure', 'Arcade']",1
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)', 'Arcade']",1
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)', 'Arcade']",1
+"['Puzzle', 'Simulator', 'Sport', 'Indie']",1
+"['Shooter', 'Racing', 'Simulator', 'Adventure', 'Indie']",1
+"['Shooter', 'Strategy', 'Adventure', 'Indie', 'MOBA']",1
+"['Puzzle', 'Simulator', 'Turn-based strategy (TBS)', 'Adventure']",1
+"['Point-and-click', 'Puzzle', 'Strategy', 'Turn-based strategy (TBS)', 'Adventure', 'Indie']",1
+"['Music', 'Role-playing (RPG)', 'Simulator', 'Visual Novel']",1
+"['Real Time Strategy (RTS)', 'Strategy', 'Turn-based strategy (TBS)', 'Adventure']",1
+"['Point-and-click', 'Puzzle', 'Strategy', 'Quiz/Trivia']",1
+"['Point-and-click', 'Puzzle', 'Tactical', 'Adventure', 'Indie']",1
+"['Real Time Strategy (RTS)', 'Sport', 'Strategy']",1
+"['Shooter', 'Strategy', ""Hack and slash/Beat 'em up"", 'Arcade']",1
+"['Point-and-click', 'Role-playing (RPG)', 'Simulator']",1
+"['Platform', 'Puzzle', 'Strategy', 'Arcade']",1
+"['Puzzle', 'Strategy', 'Turn-based strategy (TBS)', 'Quiz/Trivia', 'Card & Board Game']",1
+"['Fighting', 'Platform', ""Hack and slash/Beat 'em up"", 'Indie', 'Arcade']",1
+"['Shooter', 'Music', 'Platform', ""Hack and slash/Beat 'em up"", 'Arcade']",1
+"['Shooter', 'Real Time Strategy (RTS)', 'Strategy', 'Adventure']",1
+"['Role-playing (RPG)', 'Strategy', 'Tactical', 'Indie', 'Card & Board Game']",1
+"['Racing', 'Strategy', 'Turn-based strategy (TBS)', 'Card & Board Game']",1
+"['Racing', 'Sport', 'Pinball', 'Arcade']",1
+"['Shooter', 'Puzzle', 'Role-playing (RPG)', 'Adventure']",1
+"['Fighting', 'Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Strategy', 'Tactical', 'Indie']",1
+"['Shooter', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)', 'Adventure']",1
+"['Shooter', 'Puzzle', 'Strategy', 'Tactical', 'Indie']",1
+"['Role-playing (RPG)', 'Turn-based strategy (TBS)', ""Hack and slash/Beat 'em up"", 'Indie', 'Card & Board Game']",1
+"['Fighting', 'Shooter', 'Platform', ""Hack and slash/Beat 'em up"", 'Arcade']",1
+"['Real Time Strategy (RTS)', 'Strategy', 'Pinball', 'Arcade']",1
+"['Fighting', 'Platform', 'Puzzle', 'Indie', 'Arcade']",1
+"['Fighting', 'Real Time Strategy (RTS)', 'Strategy', 'Adventure']",1
+"['Shooter', 'Music', 'Platform', 'Adventure', 'Indie', 'Arcade']",1
+"['Point-and-click', 'Real Time Strategy (RTS)', 'Simulator', 'Tactical']",1
+"['Platform', 'Role-playing (RPG)', 'Simulator', 'Indie']",1
+"['Real Time Strategy (RTS)', 'Indie']",1
+"['Shooter', 'Tactical', 'Arcade']",1
+"['Shooter', 'Platform', 'Puzzle', 'Role-playing (RPG)', 'Strategy', 'Adventure', 'Indie']",1
+"['Shooter', 'Platform', 'Puzzle', 'Simulator', 'Indie']",1
+"['Fighting', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical']",1
+"['Platform', 'Racing', 'Sport', 'Arcade']",1
+"['Sport', 'Pinball', 'Indie', 'Arcade']",1
+"['Fighting', 'Shooter', 'Simulator', 'Strategy', 'Indie']",1
+"['Platform', 'Puzzle', 'Racing', 'Simulator', 'Adventure', 'Indie', 'Arcade']",1
+"['Fighting', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Adventure']",1
+"['Fighting', 'Shooter', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",1
+"['Puzzle', 'Role-playing (RPG)', 'Simulator', 'Indie']",1
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Sport', 'Strategy', 'Indie']",1
+"['Racing', 'Role-playing (RPG)', 'Sport', 'Indie']",1
+"['Shooter', 'Sport', 'Strategy', 'Adventure']",1
+"['Real Time Strategy (RTS)', 'Simulator', 'Strategy', 'Tactical', 'Adventure']",1
+"['Point-and-click', 'Role-playing (RPG)', 'Simulator', 'Adventure', 'Indie']",1
+"['Point-and-click', 'Simulator', 'Strategy', 'Indie']",1
+"['Strategy', 'Adventure', 'Indie', 'Arcade']",1
+"['Shooter', 'Strategy', 'Turn-based strategy (TBS)', 'Indie']",1
+"['Shooter', 'Racing', 'Adventure', 'Indie']",1
+"['Racing', 'Simulator', 'Sport', 'Strategy', 'Turn-based strategy (TBS)']",1
+"['Shooter', 'Platform', 'Simulator', 'Indie']",1
+"['Point-and-click', 'Fighting', 'Shooter', 'Music', 'Platform', 'Puzzle', 'Racing', 'Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Simulator', 'Sport', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical', ""Hack and slash/Beat 'em up"", 'Quiz/Trivia', 'Pinball', 'Adventure', 'Indie', 'Arcade']",1
+"['Racing', 'Quiz/Trivia', 'Indie']",1
+"['Platform', ""Hack and slash/Beat 'em up"", 'Indie', 'Arcade']",1
+"['Puzzle', 'Simulator', 'Adventure', 'Indie', 'Visual Novel']",1
+"['Puzzle', 'Racing', 'Simulator', 'Strategy']",1
+"['Simulator', 'Sport', 'Strategy', 'Turn-based strategy (TBS)', 'Indie', 'Card & Board Game']",1
+"['Fighting', 'Platform', 'Role-playing (RPG)', 'Adventure', 'Indie', 'Arcade']",1
+"['Music', 'Puzzle', 'Strategy', 'Quiz/Trivia', 'Indie']",1
+"['Shooter', 'Platform', 'Puzzle', 'Racing', 'Adventure']",1
+"['Point-and-click', 'Shooter', 'Simulator']",1
+"['Sport', 'Strategy', ""Hack and slash/Beat 'em up"", 'Indie']",1
+"['Puzzle', 'Racing', 'Adventure', 'Arcade']",1
+"['Point-and-click', 'Platform', 'Racing', 'Adventure']",1
+"['Music', 'Racing', 'Indie']",1
+"['Music', 'Platform', 'Racing', 'Indie', 'Arcade']",1
+"['Simulator', 'Strategy', 'Pinball']",1
+"['Puzzle', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)', 'Card & Board Game']",1
+"['Fighting', 'Puzzle', 'Role-playing (RPG)', ""Hack and slash/Beat 'em up"", 'Adventure']",1
+"['Fighting', 'Music', 'Adventure']",1
+"['Shooter', 'Platform', 'Puzzle', 'Strategy', 'Adventure']",1
+"['Shooter', 'Platform', 'Racing', 'Strategy', 'Adventure']",1
+"['Shooter', 'Platform', 'Sport']",1
+"['Shooter', 'Strategy', 'Tactical', 'Adventure', 'Indie']",1
+"['Puzzle', 'Racing', 'Role-playing (RPG)', 'Turn-based strategy (TBS)']",1
+"['Platform', 'Simulator', 'Sport', 'Strategy']",1
+"['Role-playing (RPG)', 'Tactical', 'Card & Board Game']",1
+"['Shooter', 'Tactical', 'Adventure', 'Indie']",1
+"['Platform', 'Racing', 'Pinball', 'Arcade']",1
+"['Shooter', 'Puzzle', 'Role-playing (RPG)', 'Simulator']",1
+"['Fighting', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Tactical', 'Adventure', 'Indie']",1
+"['Shooter', 'Puzzle', 'Racing', 'Role-playing (RPG)', 'Sport', 'Quiz/Trivia', 'Pinball', 'Arcade', 'Card & Board Game']",1
+"['Fighting', 'Simulator', 'Strategy', 'Adventure', 'Indie']",1
+"['Shooter', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Indie']",1
+"['Platform', 'Puzzle', 'Role-playing (RPG)', 'Strategy']",1
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Adventure', 'Indie', 'Card & Board Game']",1
+"['Fighting', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Indie', 'Arcade']",1
+"['Shooter', 'Puzzle', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",1
+"['Puzzle', 'Role-playing (RPG)', 'Strategy', 'Pinball']",1
+"['Shooter', 'Strategy', ""Hack and slash/Beat 'em up"", 'Indie']",1
+"['Fighting', 'Sport', ""Hack and slash/Beat 'em up"", 'Indie', 'Arcade']",1
+"['Point-and-click', 'Racing', 'Real Time Strategy (RTS)', 'Simulator', 'Strategy', 'Indie']",1
+"['Puzzle', 'Pinball', 'Arcade']",1
+"['Shooter', 'Puzzle', 'Real Time Strategy (RTS)', 'Simulator', 'Strategy', 'Tactical', 'Indie']",1
+"['Puzzle', 'Real Time Strategy (RTS)', 'Simulator', 'Strategy']",1
+"['Point-and-click', 'Puzzle', 'Adventure', 'Indie', 'Visual Novel']",1
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Adventure', 'Indie', 'Card & Board Game']",1
+"['Shooter', 'Simulator', 'Tactical', 'Adventure', 'Indie']",1
+"['Fighting', 'Puzzle', 'Strategy', 'Adventure']",1
+"['Point-and-click', 'Simulator', 'Visual Novel']",1
+"['Simulator', 'Strategy', ""Hack and slash/Beat 'em up""]",1
+"['Fighting', 'Role-playing (RPG)', 'Simulator', 'Adventure']",1
+"['Point-and-click', 'Puzzle', 'Role-playing (RPG)', 'Simulator', 'Adventure', 'Indie']",1
+"['Puzzle', 'Racing', 'Pinball']",1
+"['Real Time Strategy (RTS)', 'Strategy', 'Quiz/Trivia', 'Indie']",1
+"['Real Time Strategy (RTS)', 'Sport', 'Strategy', 'Indie']",1
+"['Role-playing (RPG)', 'Simulator', 'Indie', 'Arcade']",1
+"['Fighting', 'Shooter', 'Platform', 'Role-playing (RPG)']",1
+"['Platform', 'Simulator', 'Sport', ""Hack and slash/Beat 'em up""]",1
+"['Role-playing (RPG)', 'Sport', 'Turn-based strategy (TBS)', 'Adventure', 'Indie']",1
+"['Fighting', 'Racing', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Tactical', 'Adventure', 'Indie']",1
+"['Fighting', 'Platform', 'Real Time Strategy (RTS)', 'Strategy']",1
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical']",1
+"['Shooter', 'Platform', 'Racing', 'Adventure', 'Arcade']",1
+"['Real Time Strategy (RTS)', 'Simulator', 'Strategy', 'Adventure', 'Arcade']",1
+"['Fighting', 'Platform', 'Sport', 'Strategy']",1
+"['Sport', 'Strategy', 'Card & Board Game']",1
+"['Strategy', 'Tactical', ""Hack and slash/Beat 'em up"", 'Indie']",1
+"['Shooter', 'Puzzle', 'Simulator', 'Strategy', 'Adventure', 'Indie']",1
+"['Shooter', 'Simulator', 'Sport', 'Strategy']",1
+"['Puzzle', 'Sport', 'Strategy', 'Adventure']",1
+"['Shooter', 'Role-playing (RPG)', 'Simulator', 'Tactical', 'Indie']",1
+"['Platform', 'Puzzle', 'Simulator', 'Sport']",1
+"['Puzzle', 'Role-playing (RPG)', 'Simulator', 'Strategy']",1
+"['Shooter', 'Platform', 'Puzzle', 'Racing', 'Strategy', ""Hack and slash/Beat 'em up""]",1
+"['Role-playing (RPG)', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)', 'Adventure', 'Indie', 'Card & Board Game']",1
+"['Role-playing (RPG)', 'Simulator', 'Sport', 'Strategy']",1
+"['Simulator', 'Sport', 'Strategy', 'Adventure']",1
+"['Shooter', 'Simulator', 'Sport', 'Strategy', 'Tactical']",1
+"['Platform', 'Puzzle', 'Racing', 'Adventure']",1
+"['Fighting', 'Platform', ""Hack and slash/Beat 'em up"", 'Indie']",1
+"['Shooter', 'Turn-based strategy (TBS)', 'Adventure', 'Indie']",1
+"['Fighting', 'Shooter', 'Puzzle']",1
+"['Shooter', 'Platform', 'Puzzle', 'Racing', 'Role-playing (RPG)', 'Strategy', 'Indie', 'Arcade']",1
+"['Puzzle', 'Strategy', ""Hack and slash/Beat 'em up"", 'Arcade']",1
+"['Platform', 'Puzzle', 'Strategy', ""Hack and slash/Beat 'em up"", 'Arcade']",1
+"['Point-and-click', 'Fighting', 'Adventure']",1
+"['Shooter', 'Racing', 'Strategy', 'Indie']",1
+"['Point-and-click', 'Shooter', 'Adventure', 'Visual Novel']",1
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Strategy', 'Adventure', 'MOBA']",1
+"['Simulator', 'Pinball', 'Adventure']",1
+"['Puzzle', 'Simulator', 'Indie', 'Card & Board Game']",1
+"['Platform', 'Puzzle', 'Strategy', 'Indie', 'Arcade']",1
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Strategy', 'MOBA']",1
+"['Point-and-click', 'Strategy', 'Card & Board Game']",1
+"['Fighting', 'Shooter', 'Real Time Strategy (RTS)', 'Simulator', 'Strategy']",1
+"['Fighting', 'Shooter', 'Platform', 'Strategy', 'Adventure']",1
+"['Shooter', 'Simulator', 'Strategy', 'Tactical', 'Arcade']",1
+"['Fighting', 'Shooter', 'Platform', 'Sport', 'Arcade']",1
+"['Puzzle', 'Simulator', 'Pinball']",1
+"['Shooter', 'Music', 'Simulator']",1
+"['Shooter', 'Puzzle', 'Role-playing (RPG)', 'Adventure', 'Arcade']",1
+"['Music', 'Puzzle', 'Pinball', 'Indie']",1
+"['Shooter', 'Sport', 'Strategy']",1
+"['Simulator', 'Turn-based strategy (TBS)', 'Tactical', 'Quiz/Trivia']",1
+"['Simulator', 'Sport', 'Adventure', 'Arcade']",1
+"['Fighting', 'Music', 'Platform', 'Adventure']",1
+"['Puzzle', 'Strategy', 'Turn-based strategy (TBS)', 'Indie', 'Card & Board Game']",1
+"['Fighting', 'Shooter', 'Simulator', 'Indie']",1
+"['Point-and-click', 'Puzzle', 'Simulator', 'Quiz/Trivia']",1
+"['Platform', 'Pinball']",1
+"['Puzzle', 'Strategy', ""Hack and slash/Beat 'em up"", 'Indie']",1
+"['Point-and-click', 'Puzzle', 'Racing', 'Adventure', 'Indie']",1
+"['Shooter', 'Platform', 'Puzzle', 'Strategy', 'Adventure', 'Indie']",1
+"['Sport', 'Strategy', 'Adventure']",1
+"['Puzzle', 'Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', 'Adventure', 'Indie']",1
+"['Shooter', 'Real Time Strategy (RTS)', 'Sport', 'Strategy', 'Indie']",1
+"['Platform', 'Puzzle', 'Role-playing (RPG)', 'Turn-based strategy (TBS)', 'Indie']",1
+"['Platform', 'Role-playing (RPG)', 'Simulator', 'Strategy']",1
+"['Music', 'Simulator', 'Strategy']",1
+"['Racing', 'Real Time Strategy (RTS)', 'Strategy', 'MOBA']",1
+"['Fighting', 'Platform', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie', 'Arcade']",1
+"['Shooter', 'Puzzle', 'Role-playing (RPG)', 'Strategy']",1
+"['Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Sport', 'Strategy', 'Turn-based strategy (TBS)']",1
+"['Fighting', 'Platform', 'Sport', 'Pinball']",1
+"['Shooter', 'Puzzle', 'Pinball']",1
+"['Role-playing (RPG)', 'Simulator', 'Tactical']",1
+"['Real Time Strategy (RTS)', 'Strategy', 'Pinball']",1
+"['Fighting', 'Shooter', 'Puzzle', 'Racing', 'Sport', 'Adventure', 'Arcade']",1
+"['Fighting', 'Puzzle', 'Indie']",1
+"['Shooter', 'Role-playing (RPG)', 'Sport', 'Strategy', 'Pinball', 'Arcade']",1
+"['Shooter', 'Puzzle', 'Strategy', 'Arcade']",1
+"['Racing', 'Simulator', 'Sport', 'Strategy', 'Adventure', 'Arcade']",1
+"['Music', 'Sport', 'Adventure']",1
+"['Puzzle', 'Role-playing (RPG)', 'Pinball', 'Adventure', 'Indie', 'Arcade']",1
+"['Fighting', 'Role-playing (RPG)', 'Strategy', 'Turn-based strategy (TBS)', 'Indie']",1
+"['Fighting', 'Platform', 'Role-playing (RPG)', 'Adventure', 'Indie']",1
+"['Fighting', 'Puzzle', 'Role-playing (RPG)', 'Simulator', 'Strategy', ""Hack and slash/Beat 'em up"", 'Adventure', 'Indie']",1
+"['Music', 'Puzzle', 'Simulator', 'Strategy', 'Indie']",1
+"['Shooter', 'Platform', 'Role-playing (RPG)', 'Simulator', 'Adventure', 'Indie']",1
+"['Music', 'Strategy', 'Adventure']",1
+"['Music', 'Platform', 'Puzzle', 'Indie', 'Arcade']",1
+"['Music', 'Puzzle', 'Strategy', 'Indie']",1
+"['Platform', 'Puzzle', 'Simulator', 'Strategy', 'Indie']",1
+"['Fighting', 'Music', 'Adventure', 'Indie']",1
+"['Shooter', 'Platform', 'Pinball', 'Arcade']",1
+"['Platform', 'Puzzle', 'Adventure', 'Visual Novel']",1
+"['Shooter', 'Racing', 'Role-playing (RPG)', 'Simulator', ""Hack and slash/Beat 'em up"", 'Adventure']",1
+"['Shooter', 'Role-playing (RPG)', 'Simulator', 'Tactical']",1
+"['Puzzle', 'Racing', 'Strategy', 'Pinball']",1
+"['Shooter', 'Real Time Strategy (RTS)', 'Role-playing (RPG)', 'Simulator', 'Strategy']",1
+"['Shooter', 'Puzzle', 'Strategy', 'Quiz/Trivia', 'Adventure']",1
+"['Real Time Strategy (RTS)', 'Strategy', 'Card & Board Game']",1
+"['Shooter', 'Racing', 'Simulator', 'Strategy', 'Tactical', 'Adventure']",1
+"['Simulator', 'Strategy', 'Tactical', 'Arcade']",1
+"['Simulator', 'Strategy', 'Turn-based strategy (TBS)', 'Tactical', 'Adventure', 'Indie']",1
+"['Racing', 'Simulator', 'Tactical']",1
+"['Puzzle', 'Role-playing (RPG)', 'Simulator', 'Strategy', 'Turn-based strategy (TBS)', 'Adventure', 'Indie', 'Card & Board Game']",1
+"['Fighting', 'Shooter', 'Role-playing (RPG)']",1
+"['Role-playing (RPG)', 'Quiz/Trivia', 'Indie']",1
+"['Shooter', 'Platform', 'Role-playing (RPG)', 'Indie']",1
+"['Platform', 'Puzzle', 'Pinball']",1
+"['Sport', ""Hack and slash/Beat 'em up"", 'Arcade']",1
