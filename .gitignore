@@ -2,3 +2,5 @@ data_collection/test_collection/config.py
 data_collection/final_collection/config.py
 data_collection/final_collection/final_data
 data_collection/final_collection/final_data2
+exploratory_data_analysis/clean_test2.csv
+exploratory_data_analysis/final_data
