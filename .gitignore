@@ -4,5 +4,7 @@ data_collection/final_collection/final_data
 data_collection/final_collection/final_data2
 exploratory_data_analysis/clean_test2.csv
 exploratory_data_analysis/final_data
+exploratory_data_analysis/final_data(2)
+exploratory_data_analysis/test_results
 training_n_testing/train_data_loader
 training_n_testing/validation_data_loader
